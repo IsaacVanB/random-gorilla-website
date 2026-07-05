@@ -24,7 +24,6 @@ window.GORILLA_PAGES = [
   "https://www.gorillasland.com/Charlie-b.php",
   "https://www.gorillasland.com/Charlotte.php",
   "https://www.gorillasland.com/Cucu.php",
-  "https://www.gorillasland.com/DAK2101.php",
   "https://www.gorillasland.com/Daiko.php",
   "https://www.gorillasland.com/Damsi.php",
   "https://www.gorillasland.com/Djeke.php",
@@ -82,6 +81,7 @@ window.GORILLA_PAGES = [
   "https://www.gorillasland.com/aarde.php",
   "https://www.gorillasland.com/abeeku.php",
   "https://www.gorillasland.com/acacia-r.php",
+  "https://www.gorillasland.com/ada-disney.php",
   "https://www.gorillasland.com/ada.php",
   "https://www.gorillasland.com/adelina.php",
   "https://www.gorillasland.com/adira.php",
@@ -172,6 +172,7 @@ window.GORILLA_PAGES = [
   "https://www.gorillasland.com/bahasha.php",
   "https://www.gorillasland.com/bahati.php",
   "https://www.gorillasland.com/bak.php",
+  "https://www.gorillasland.com/bakari-st.php",
   "https://www.gorillasland.com/balinga.php",
   "https://www.gorillasland.com/baloo.php",
   "https://www.gorillasland.com/bambio.php",
@@ -1071,7 +1072,6 @@ window.GORILLA_PAGES = [
   "https://www.gorillasland.com/shomari.php",
   "https://www.gorillasland.com/shou.php",
   "https://www.gorillasland.com/shufai-a.php",
-  "https://www.gorillasland.com/shufai.php",
   "https://www.gorillasland.com/shumba.php",
   "https://www.gorillasland.com/sia.php",
   "https://www.gorillasland.com/sidonie.php",
@@ -1230,3 +1230,4916 @@ window.GORILLA_PAGES = [
   "https://www.gorillasland.com/zuza.php",
   "https://www.gorillasland.com/zwalani.php"
 ];
+
+window.GORILLA_PAGE_DATA = [
+  {
+    "url": "https://www.gorillasland.com/AUD2001.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/Alberta.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/Alexis.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/Ali.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/Arco.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/Asali-a.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/Atanga.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/Ayo-b.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/BAR1401.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/BHZ2101.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/BRI1901.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/Bo.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/Bobga.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/Boboto.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/Bruno.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/Bukavu-a.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/Burchfield.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/Bwana-a.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/CAL2101.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/Charlie-b.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/Charlotte.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/Cucu.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/Daiko.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/Damsi.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/Djeke.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/Felix-a.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/Floyd.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/GIV1901.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/Gandai.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/Grace-a.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/Haidi.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/Ikebe.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/Ivan.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/Jengo.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/Juni.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/Kaius.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/Kibara-a.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/Kibi-a.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/Kibwe.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/Kintaro.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/Kione.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/Kipande.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/Kovanga.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/Kruger.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/Louango.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/Lumba.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/MUN2301.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/Maya.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/Mbaku.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/Mbani.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/Mies.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/Moke.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/Mondika-a.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/Musuka.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/NTao.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/NUR1901.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/Nbia.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/Ndoki.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/Niout.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/Nuru-a.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/Pedro.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/Pelu.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/Pepe-a.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/Platon.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/Porgy.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/ROS1901.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/Saambili.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/Saffi.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/Samba.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/Tamiela.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/Thandie.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/Xara.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/Xia.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/Yzia.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/Zahra-a.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/Zuri.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/aarde.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/abeeku.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/acacia-r.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/ada-disney.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/ada.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/adelina.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/adira.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/afanengui.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/affy.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/afia.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/afiya.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/africa.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/ai.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/ajabu-a.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/ajabu-p.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/ajabu.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/ajari.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/akiba-a.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/akiba.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/akiki.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/akili.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/akono.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/akou.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/alafia.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/alf.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/ali-val.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/alice.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/alika-scz.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/alika.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/alladin.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/ama.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/amahoro.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/amani-a.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/amani-b.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/amani-p.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/amani.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/amare.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/amari.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/amaria.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/ambam.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/amelia.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/amiri.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/anaka.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/anakka.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/anandi.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/anaya.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/andi-atl.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/angel.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/angela.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/anguka.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/anju.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/annette.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/anny.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/anya.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/apollo.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/artis.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/asali.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/asanti.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/asato.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/asha-a.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/asha.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/ashmar.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/asili.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/assumbo.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/astra.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/atinbi.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/augustus.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/awali.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/awembe.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/aya.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/ayana-bristol.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/ayana-gracie.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/ayana.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/ayba.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/aybo.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/ayo-a.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/ayo-c.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/ayo.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/azizi-a.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/azizi-b.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/azizi.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/baako.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/babalu.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/babatunde.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/babsi.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/babuka.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/babule.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/baby-doll.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/badongo.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/bafia.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/bagira.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/bahasha.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/bahati.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/bak.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/bakari-st.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/balinga.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/baloo.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/bambio.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/bamilla.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/bana.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/bandi.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/bandia.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/banga.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/bangori.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/bangui.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/banjo.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/banjoko.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/bar-00-01.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/bar-00-03.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/bar-02-01.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/bar-04-01.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/bar-05-01.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/bar-85-01.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/bar-85-02.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/bar-88-01.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/bar-98-01.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/baraka-ya-mwelu.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/baraka.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/barika.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/barney.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/barraca.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/bas-24-01.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/basoko.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/bassa.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/batanga.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/batouri.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/bauwi.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/bawang.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/bebe.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/bella.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/bembosi.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/benga.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/bengati.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/ber-24-01.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/ber2102.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/besseki.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/betsy.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/bhz1701.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/bianka.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/bibi.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/biddy.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/bikira.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/billy.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/bimvili.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/bindung-ii.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/bindung.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/binga.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/binti-artis.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/binti-houston.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/binti-jua.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/bioko.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/bitam.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/bitanu.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/bitono.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/bobby.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/bobo.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/bokito.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/bolingo.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/bom.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/boma-a.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/boma.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/bomani.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/bomassa.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/bongo-a.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/bongo-apenheul.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/bongo.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/bosenga.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/bou.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/boula.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/boulas.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/bouleman.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/boumi.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/brighter.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/brutus.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/bu-bu.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/buanoi.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/bubi.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/bukavu.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/bulera.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/buu.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/bwana.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/bwenzi.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/cab-12-01.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/calaya.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/casey-ii.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/cassie.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/cassius.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/catherin.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/catou.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/cc.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/cecil.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/cenzoo-r.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/chaka.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/chama.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/changa.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/charles.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/charlie-a.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/charlie.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/chato.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/chelewa.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/chella.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/chencha.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/chewie.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/chipua.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/choomba.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/chuma.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/claudia.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/coco.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/colo.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/copito-de-nieve.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/cory.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/curtis.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/dafina.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/dalilah.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/damisi.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/dango.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/dayo.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/delilah.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/demba-a.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/demba.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/dembe.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/denny.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/derrick.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/dian.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/diana.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/diara.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/digit-dubai.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/digit.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/dihi.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/dishi.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/djala.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/djambala.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/djanghou.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/djeeco.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/djemba.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/djengi.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/djimu.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/djomo.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/djongo.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/djoum.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/djumbah.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/doba.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/donge.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/donna.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/dorle.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/dossi.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/dotty-mashavu.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/douli.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/duni.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/dunia.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/dur-13-01.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/dur-16-01.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/dur-16-02.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/dura.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/dvu-04-01.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/dvu-89-01.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/ebeki.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/ebo.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/ebobo.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/echo.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/edu.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/efata.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/effie.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/ekan.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/ekuba.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/ela.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/elle.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/ellen.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/elmo.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/elroi.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/emba.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/emmie.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/enea.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/enzi.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/enzo.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/ernie.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/ernst.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/esiankiki.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/esseng.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/esuma.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/euro.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/evelyn.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/evindi.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/eyare.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/eyenga.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/fabumi.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/faddama.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/fang.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/faraja.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/fataki.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/fatima.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/fatou.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/faustina.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/femelle.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/fikiri.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/flint.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/fossey-a.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/fossey.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/foufou.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/founa.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/fra-15-01.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/fra-15-02.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/fra-17-01.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/frala.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/fran.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/frank.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/fritz.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/fubu.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/fuzu.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/g-anne.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/gadi.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/gaia-pr.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/gaia.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/gaidi.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/gaika.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/gaja.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/gana.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/gasira.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/gaya.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/genki.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/gentaro.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/george-a.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/georgia.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/gernot.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/ghubari.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/gigi.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/gina.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/gincko.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/gino.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/giv1801.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/giv1902.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/gladys-stones.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/golo.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/goma-a.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/goma.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/gorgo.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/gori-inuyama.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/gorilong.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/gorina.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/gorka.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/grace.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/gugas.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/gunther.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/gus.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/guy.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/gwet.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/gyasi.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/gypsy.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/habibu.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/hadari.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/hai-bei.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/haiba.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/hakuna-matata.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/halima.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/haloko.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/haoko.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/harambe.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/hasani-abq.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/hasani-dis.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/hasani-san.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/hasani.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/helen.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/henry.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/hercules.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/hlala-kahilli.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/hodari.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/holli.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/honi-p.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/hope-dallas.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/horst.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/huerfanita.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/husani.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/hyasmina.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/ihome.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/ikunde.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/imani.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/imbi.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/imbizo.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/inaki.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/indigo-bud.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/indigo-dur.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/inge.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/inkumi.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/irala.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/iriki.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/iringa.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/iris.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/isangi.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/itebero.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/ivindo-la-val.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/ivo.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/iyari.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/jabali.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/jabali2380.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/jabari-a.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/jabari-schmi.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/jabari.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/jackie-a.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/jackie.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/jade.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/jah.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/jahari-a.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/jahari.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/jaja.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/jamani-2.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/jamani.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/jambo.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/jameela.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/jamila-a.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/jamila.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/jasiri-a.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/jawara.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/jelani.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/jeppe.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/jessica.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/jim.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/jimmy-jr.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/jitu.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/jj-col.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/jo-ray-k.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/joanne.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/joas.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/jock.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/joe-lumumba.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/johari-mel.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/johari-tor.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/johari-wcs.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/jojo.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/jomo.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/jontu-b.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/josephine-tor.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/joshi.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/jouki.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/juba.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/jubi.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/juju-a.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/juju.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/julchen.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/julia-a.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/julia-b.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/julia.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/juma.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/june.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/junglejack.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/juno.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/kabale.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/kabibe.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/kabinda.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/kaboko.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/kabuli.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/kafale.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/kaja.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/kajari.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/kajolu.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/kakinga.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/kala.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/kali.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/kalonge.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/kamara.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/kamari.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/kamba-a.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/kamba.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/kambera-dupe.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/kambiri.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/kamilah.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/kamili.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/kamina.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/kamoli.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/kangu.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/kanzi.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/kashata.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/kassiu.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/katanga.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/kathrin.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/katie.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/kato.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/kayin.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/kazi-r.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/kebara-m.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/kebu.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/kejana.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/kekla.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/kelly.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/kena.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/kendi.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/kenta.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/kera.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/kesha.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/kesho.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/kgosi.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/khala.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/kiale.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/kianga.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/kiango.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/kiano-2.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/kiano.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/kiazi-kitamu.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/kibabu.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/kibali.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/kibao.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/kibara-leipzig.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/kibara.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/kibi.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/kibibi-bel.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/kibibi.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/kibo-a.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/kibo.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/kiburi-a.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/kiburi.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/kiburib.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/kicho.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/kidiki.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/kidjoum.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/kidogo-a.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/kidogo-bb.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/kidogo-njemba.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/kidogo.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/kifta.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/kifu.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/kigali-a.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/kigali.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/kighoma.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/kihi.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/kijani.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/kijito.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/kijivu.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/kijo.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/kiju.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/killa-killa.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/kim-a.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/kim.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/kima-ii.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/kimani-a.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/kimani.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/kimba.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/kimbali.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/kimbo.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/kimo.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/kimya.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/kindi.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/king-a.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/king.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/kinyani.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/kio.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/kiojah.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/kiondo.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/kipenzi-mogo.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/kipenzi.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/kira-mos.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/kira-p.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/kisane.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/kishi.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/kishka.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/kishum.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/kisina.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/kisiwa.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/kisoro.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/kissa.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/kisumu.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/kito.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/kitoko.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/kituba.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/kiu.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/kivu-a.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/kivu-b.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/kivu-c.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/kivu.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/kivuli.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/kiwano.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/kiyomasa.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/kleopatra.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/kofi.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/koga.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/kojo.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/kokamo.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/kol-14-01.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/kolo.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/komale.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/komomo.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/komu.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/kongo-mbeli.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/koola.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/kouam.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/kouillou.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/koundi.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/kouni.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/kouyou.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/kre-13-02.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/kriba.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/ktembe.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/kuanza.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/kuchi.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/kuchimba.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/kudzoo.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/kuimba.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/kukena.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/kukuma.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/kumba-c.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/kumba.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/kumbi.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/kumbo.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/kumbuka-a.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/kumbuka.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/kumi-a.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/kumi.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/kumili.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/kush.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/kvabena.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/kwame-a.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/kwame-c.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/kwame.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/kwanza-a.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/kwanza.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/kwashi.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/kweli.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/kwimba.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/kwisha.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/kwizera-m.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/kyasa.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/lady.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/lamydoc.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/lash.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/lashjunior.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/layla.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/lemboe.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/lena-a.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/lena.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/lengai.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/leom.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/leon.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/leslie.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/lia.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/liesel.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/likalay-lulu.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/lilly.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/lily-rose.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/lina.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/liora.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/lis-12-01.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/lisha.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/little-joe-st.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/loango.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/lobo.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/lomako.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/lomela.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/lomie.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/lope.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/lora.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/lou-lou.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/louie.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/louis.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/louna-pl.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/louna.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/lubutu.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/luena.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/lukas.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/lulingu.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/lulu.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/ma-yah.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/maayabu.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/machi.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/machinda.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/macombo-ii.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/macyb-r.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/madge.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/madiba.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/madini-thamani.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/mah-mah.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/mahali.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/mahiri.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/maile.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/maisha-a.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/maisha.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/maji-maji.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/maka.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/makala.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/makari-bla.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/makari2.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/makeba.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/makena.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/makena2.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/makokou.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/makongo.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/makoua.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/makula.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/malabo.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/malkia.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/mambele.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/mambi-a.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/mambie-val.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/mamitu.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/mandaazi.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/mandara.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/mandji.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/mapasa.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/mapema.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/mapendo.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/mapenzi.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/mara.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/marcus.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/margaret.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/martha.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/mary-zwo.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/mary.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/masani.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/mashika.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/mashudu.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/masika2.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/masindi.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/massa.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/mata-hari.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/matabishi.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/matadi-abq.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/matadi.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/mataki.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/matibi.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/matumaini.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/mawenzi.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/mawete.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/mawimbi.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/mawingo.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/mayani.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/mayele.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/mayombe.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/mayumba.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/mayumi.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/mbeli-tar.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/mbeli-val.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/mbeli.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/mbewe.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/mbini.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/mbizi.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/mbula.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/mbundi.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/mdomo.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/megan.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/meisie.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/melima.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/memba.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/merry-leigh.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/meru.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/messy.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/mfugaji.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/mia-moja.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/mijadala-aka-mija.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/mike-houston.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/mike.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/milele.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/miliki-bla.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/miliki-kre.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/mimi.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/minnie.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/mintha.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/mizani-2.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/mizani.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/mjukuu-a.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/mjukuu-b.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/mjukuu.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/mkono.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/mlinzi.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/moana.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/moanda.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/mobali.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/mobi.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/moja.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/mokonzi.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/momo.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/momoka.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/momoko.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/momotaro.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/mondika.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/mongomo.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/monifa.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/monroe.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/monta.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/monza.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/moos.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/moseka.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/mosi-b.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/mosi.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/mosuba.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/motaba.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/motema-m.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/motube-p.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/mouila-a.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/mouila.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/moyo-r.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/moyo.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/mpassa.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/mpenzi.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/mshindi.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/mtonge.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/muenda.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/muke.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/mukobe.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/mumba-a.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/mumba.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/mumbah.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/mumbou.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/muna.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/muni-a.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/muni-b.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/muni.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/musashi.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/mushie.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/mutasi.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/muyisa.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/mwamba.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/mwambe.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/mwana.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/mwelu-m.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/mzungu.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/nache.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/nadami.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/nadia.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/nafi.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/naika.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/nakou.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/naku.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/nala.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/nalani.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/namoki.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/nana.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/naomi.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/nasibu-a.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/nasibu.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/nassir.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/nayembi.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/ndatwa.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/ndekasi.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/ndengue.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/ndeze.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/ndjia.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/ndjingala.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/ndowe.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/ndume.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/neema.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/nekon.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/nemsi.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/nene.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/ngambe.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/ngayla.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/ngola.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/ngoma.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/ngoro.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/ngozi.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/ngumbi.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/nguvu.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/nhasa.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/nia-lewa.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/nia.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/nico.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/niky.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/nille.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/nimba.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/nirale.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/njema.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/nkato.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/nkosi.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/nkoumou.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/nkwango.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/nneka-san-fran.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/nneka-tor.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/noel-a.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/noel.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/nora.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/nsabi.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/ntabwaba.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/ntami.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/ntondo.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/ntua.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/nukta.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/nuru.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/nwashi.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/nyah.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/nyango.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/nyaounda.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/nyokumi.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/nyuki.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/nzinga.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/nzuri.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/oj.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/okabe.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/okanda.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/okpara.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/oliver-tbg.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/oliver.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/olivia.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/olympia.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/orungo.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/otana.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/oumbie.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/oundi.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/oya.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/ozala.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/ozoum.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/paki.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/pamela.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/patrick-r.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/patty-a.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/patty.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/pau-pau.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/paul-donn.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/pele.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/pendeka.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/penney.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/penny-m.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/pepe.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/pertinax.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/pesco.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/pieko.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/pierre-pont.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/pinga.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/polepole.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/polo.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/pongi.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/popa.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/pra-07-01.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/pra-13-01.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/praline.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/qaziba.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/quarta.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/quembo.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/quenta.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/quito.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/radi.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/rafiki-a.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/rafiki.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/ram-11-01.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/ramar.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/ramses-i.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/rapunzel.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/rebeca.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/rebecca.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/richard.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/rigo.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/riki.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/ringo.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/rivi.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/rollie.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/romina.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/roselinda.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/roututu.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/roxie.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/rumpelstills.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/ruya.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/rwanda.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/sadiki-tor.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/sadiki.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/safiri.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/sakina.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/sally.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/salome.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/sam-sam.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/samantha-a.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/samantha.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/sammi.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/samson-b.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/samson.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/sangha-a.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/sangha.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/sango.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/sanki.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/santu.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/sawa-a.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/sawa.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/sawidi.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/schorch.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/sekani.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/serufuli.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/sha-sha.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/shabani.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/shae.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/shaila.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/shalia.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/shallita.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/shamavu.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/shamba-a.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/shamba.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/shambe.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/shana.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/shanga.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/shango.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/shani.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/shanta.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/shatilla.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/sheila.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/shinda-a.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/shinda.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/shindy.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/shira.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/shomari.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/shou.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/shufai-a.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/shumba.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/sia.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/sidonie.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/simsim.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/sonja-h.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/sonja.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/sounda.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/soundi.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/stadi.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/subira.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/sukari.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/suki.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/sulaiman.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/sumomo.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/susie.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/suwedi.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/sydney.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/taali.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/tabibu.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/tabitha.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/tadao.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/tam-tam.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/tamani.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/tamarilla.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/tamba.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/tambabi.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/tambo-a.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/tambo.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/tamidol.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/tamki.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/tamu.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/tandu.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/tano-gp.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/tano.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/tara.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/tatu-a.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/tatu.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/tayari.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/taz.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/tebe.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/tebogo.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/thabo-a.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/thabo.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/thara.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/thirza.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/thomas.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/thor.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/tilla.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/timbou.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/timmy.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/timu.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/tinga-aka-glenda.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/tino.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/tiny.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/tok-16-01.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/tommy.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/tonda.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/toni-a.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/toni.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/tonka.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/toto-j.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/touni.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/tracy-james.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/triska.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/trudy.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/tsimi.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/tuana.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/tuena.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/tufani2.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/tulivu.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/tumaini.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/tumani.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/tumba.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/tunko.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/tuti.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/ubongo.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/ubuntu.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/ujiji.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/ukiwa.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/ulca.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/umande.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/undi.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/upala.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/urko.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/utonde.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/uzuri-bb.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/uzuri.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/val-12-01.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/vana.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/venus-l.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/viatu.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/victoria.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/viking.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/vila.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/vimoto.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/viringika.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/virunga-a.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/virunga-b.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/virunga-valencia.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/virunga.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/vizazi.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/vizuri-m.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/vizuri.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/vuko.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/vutu.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/wazungu.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/wefa.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/wela.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/whimsie-adepa.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/willie-b-iii.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/willy.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/wima.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/wimbe.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/winifred.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/winston.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/xebo.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/xetsa.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/ya-kwanza.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/yadumu.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/yamba.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/yamila.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/yanga.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/yangu-a.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/yangu.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/yaounde.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/yaoundeminnie.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/ybana.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/yeba.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/yeboah.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/yehudit.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/yene.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/yeti.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/yewande.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/yoko.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/yola.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/yuba.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/yuma.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/yuska.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/zachary.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/zahra.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/zaire.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/zakota.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/zam-88-01.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/zawadi.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/zazie.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/zeytin.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/zoezi.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/zola-a.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/zola-b.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/zola.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/zsazsa.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/zungu.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/zura.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/zuri-cal.php",
+    "isAlive": true
+  },
+  {
+    "url": "https://www.gorillasland.com/zuri-houston.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/zuza.php",
+    "isAlive": false
+  },
+  {
+    "url": "https://www.gorillasland.com/zwalani.php",
+    "isAlive": true
+  }
+];
+
+window.GORILLA_PAGES_UPDATED = "2026-07-05";
