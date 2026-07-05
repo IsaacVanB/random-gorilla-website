@@ -1,0 +1,190 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Random Gorilla</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <script src="gorilla_pages.js"></script>
+
+  <style>
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      min-height: 100vh;
+      margin: 0;
+      padding: 2rem 1rem;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-family: system-ui, sans-serif;
+      line-height: 1.5;
+      text-align: center;
+      color: #241407;
+      background:
+        linear-gradient(rgba(255, 246, 222, 0.55), rgba(255, 246, 222, 0.78)),
+        url("bg.jpg") center / cover fixed;
+    }
+
+    main {
+      width: min(100%, 650px);
+      padding: 2rem;
+      border: 1px solid rgba(68, 38, 11, 0.25);
+      border-radius: 8px;
+      background: rgba(255, 250, 238, 0.9);
+      box-shadow: 0 24px 70px rgba(42, 24, 7, 0.28);
+      backdrop-filter: blur(3px);
+    }
+
+    h1 {
+      margin: 0 0 1.25rem;
+      font-size: clamp(1.7rem, 5vw, 2.5rem);
+      line-height: 1;
+      letter-spacing: 0;
+    }
+
+    h1 span {
+      display: block;
+      margin-top: 0.25rem;
+      font-family: Georgia, "Times New Roman", serif;
+      font-size: clamp(3.5rem, 14vw, 6.5rem);
+      font-style: italic;
+      font-weight: 900;
+      color: #4f2709;
+      text-shadow:
+        0 2px 0 #f5c86a,
+        0 6px 18px rgba(69, 36, 9, 0.35);
+    }
+
+    .portrait {
+      display: block;
+      width: min(100%, 280px);
+      aspect-ratio: 533 / 800;
+      margin: 0 auto 1.5rem;
+      border: 6px solid #fff7e4;
+      border-radius: 8px;
+      object-fit: cover;
+      box-shadow: 0 16px 35px rgba(42, 24, 7, 0.3);
+    }
+
+    button, a.button {
+      font: inherit;
+      display: inline-block;
+      padding: 0.8rem 1rem;
+      border: 1px solid #4f2709;
+      border-radius: 8px;
+      background: #fff7e4;
+      color: #241407;
+      text-decoration: none;
+      cursor: pointer;
+      margin: 0.25rem;
+      box-shadow: 0 4px 0 #d69a34;
+      transition: transform 0.12s ease, box-shadow 0.12s ease;
+    }
+
+    button:hover, a.button:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 6px 0 #d69a34;
+    }
+
+    button:active, a.button:active {
+      transform: translateY(1px);
+      box-shadow: 0 2px 0 #d69a34;
+    }
+
+    .database-link {
+      color: #4f2709;
+      font-weight: 700;
+      text-underline-offset: 0.2em;
+    }
+
+    code {
+      background: #fff1c7;
+      padding: 0.15rem 0.35rem;
+      border-radius: 4px;
+    }
+
+    @media (max-width: 480px) {
+      body {
+        padding: 1rem;
+      }
+
+      main {
+        padding: 1.25rem;
+      }
+
+      button, a.button {
+        width: 100%;
+        margin-right: 0;
+        margin-left: 0;
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <main>
+    <h1>SHOW ME A <span>GORILLA</span></h1>
+
+    <img class="portrait" src="SukiPortrait.jpg" alt="Suki portrait">
+
+    <p id="status">Loading gorilla pages...</p>
+
+    <button onclick="openRandomGorilla(false)">Open in this tab</button>
+    <button onclick="openRandomGorilla(true)">Open in new tab</button>
+
+    <p>
+      <a class="database-link" href="https://www.gorillasland.com/gorilla-database.php" target="_blank" rel="noopener noreferrer">Open gorilla database</a>
+    </p>
+
+    <!-- <p>
+      Bookmark this page, or bookmark it with <code>?auto=1</code> at the end to make it immediately redirect.
+    </p> -->
+  </main>
+
+  <script>
+    function getPages() {
+      if (!Array.isArray(window.GORILLA_PAGES)) {
+        return [];
+      }
+
+      return window.GORILLA_PAGES.filter(url =>
+        typeof url === "string" &&
+        url.startsWith("https://www.gorillasland.com/")
+      );
+    }
+
+    function randomChoice(items) {
+      return items[Math.floor(Math.random() * items.length)];
+    }
+
+    function openRandomGorilla(newTab) {
+      const pages = getPages();
+
+      if (pages.length === 0) {
+        alert("No gorilla pages found. Run build_gorilla_list.py first.");
+        return;
+      }
+
+      const url = randomChoice(pages);
+
+      if (newTab) {
+        window.open(url, "_blank", "noopener,noreferrer");
+      } else {
+        window.location.href = url;
+      }
+    }
+
+    const pages = getPages();
+    document.getElementById("status").textContent =
+      `Loaded ${pages.length} gorilla pages.`;
+
+    const params = new URLSearchParams(window.location.search);
+    if (params.get("auto") === "1") {
+      openRandomGorilla(false);
+    }
+  </script>
+</body>
+</html>
