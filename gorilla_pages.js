@@ -4586,7 +4586,7 @@ window.GORILLA_PAGE_DATA = [
   },
   {
     "url": "https://www.gorillasland.com/mobali.php",
-    "isAlive": true
+    "isAlive": false
   },
   {
     "url": "https://www.gorillasland.com/mobi.php",
@@ -6142,4 +6142,4 @@ window.GORILLA_PAGE_DATA = [
   }
 ];
 
-window.GORILLA_PAGES_UPDATED = "2026-07-05";
+window.GORILLA_PAGES_UPDATED = "2026-07-28";
