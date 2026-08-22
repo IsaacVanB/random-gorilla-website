@@ -4,7 +4,7 @@ import json
 import re
 import time
 from collections import deque
-from datetime import date
+from datetime import date, datetime
 from pathlib import Path
 from urllib.parse import urljoin, urlparse
 
@@ -145,6 +145,90 @@ def infer_alive_status(html: str) -> bool | None:
     return None
 
 
+def extract_field_values(html: str, fields: list[str]) -> dict[str, str]:
+    soup = BeautifulSoup(html, "html.parser")
+    text = soup.get_text("\n", strip=True)
+    values = {}
+    lines = [line.strip() for line in text.splitlines() if line.strip()]
+
+    for i, line in enumerate(lines):
+        for field in fields:
+            if line.lower().startswith(field.lower()):
+                value = line[len(field):].strip()
+
+                if value.startswith(":"):
+                    value = value[1:].strip()
+
+                if not value and i + 1 < len(lines):
+                    value = lines[i + 1].strip()
+
+                values[field] = value
+
+    return values
+
+
+def parse_birth_date(value: str) -> date | None:
+    cleaned = re.sub(r"\s+", " ", value.strip())
+    cleaned = re.sub(r"(\d)(st|nd|rd|th)\b", r"\1", cleaned, flags=re.IGNORECASE)
+
+    date_patterns = [
+        r"\d{4}-\d{1,2}-\d{1,2}",
+        r"\d{1,2}[./-]\d{1,2}[./-]\d{2,4}",
+        r"[A-Za-z]+ \d{1,2},? \d{4}",
+        r"\d{1,2} [A-Za-z]+ \d{4}",
+    ]
+
+    date_formats = [
+        "%Y-%m-%d",
+        "%d.%m.%Y",
+        "%d/%m/%Y",
+        "%d-%m-%Y",
+        "%m/%d/%Y",
+        "%m-%d-%Y",
+        "%B %d, %Y",
+        "%B %d %Y",
+        "%b %d, %Y",
+        "%b %d %Y",
+        "%d %B %Y",
+        "%d %b %Y",
+    ]
+
+    for pattern in date_patterns:
+        match = re.search(pattern, cleaned)
+
+        if not match:
+            continue
+
+        candidate = match.group(0)
+
+        for date_format in date_formats:
+            try:
+                return datetime.strptime(candidate, date_format).date()
+            except ValueError:
+                pass
+
+    return None
+
+
+def infer_birth_date(html: str) -> str | None:
+    birth_fields = [
+        "Date of birth",
+        "Birth date",
+        "Birthdate",
+        "Born",
+    ]
+
+    values = extract_field_values(html, birth_fields)
+
+    for value in values.values():
+        parsed = parse_birth_date(value)
+
+        if parsed:
+            return parsed.isoformat()
+
+    return None
+
+
 def crawl(max_pages: int = 8000) -> list[dict[str, object]]:
     session = requests.Session()
     session.headers.update(HEADERS)
@@ -172,9 +256,12 @@ def crawl(max_pages: int = 8000) -> list[dict[str, object]]:
         html = response.text
 
         if looks_like_individual_gorilla_profile(html):
+            birth_date = infer_birth_date(html)
             profiles[url] = {
                 "url": url,
                 "isAlive": infer_alive_status(html),
+                "birthDate": birth_date,
+                "birthMonthDay": birth_date[5:] if birth_date else None,
             }
 
         for link in extract_links(html, url):

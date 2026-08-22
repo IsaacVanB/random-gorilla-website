@@ -58,6 +58,13 @@
         0 6px 18px rgba(69, 36, 9, 0.35);
     }
 
+    h2 {
+      margin: 0 0 0.85rem;
+      font-size: 1.25rem;
+      line-height: 1.2;
+      letter-spacing: 0;
+    }
+
     .portrait {
       display: block;
       width: min(100%, 280px);
@@ -117,6 +124,52 @@
       cursor: pointer;
     }
 
+    .birthday-search {
+      margin: 1.25rem 0;
+      padding-top: 1.25rem;
+      border-top: 1px solid rgba(68, 38, 11, 0.18);
+    }
+
+    .birthday-controls {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 0.5rem;
+    }
+
+    .birthday-controls label {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      font-weight: 700;
+    }
+
+    .birthday-controls input {
+      font: inherit;
+      min-height: 3rem;
+      padding: 0.65rem 0.75rem;
+      border: 1px solid #4f2709;
+      border-radius: 8px;
+      background: #fffdf7;
+      color: #241407;
+    }
+
+    .birthday-results {
+      margin: 1rem 0 0;
+      padding: 0;
+      list-style: none;
+    }
+
+    .birthday-results li + li {
+      margin-top: 0.45rem;
+    }
+
+    .birthday-results a {
+      color: #4f2709;
+      font-weight: 700;
+      text-underline-offset: 0.2em;
+    }
+
     code {
       background: #fff1c7;
       padding: 0.15rem 0.35rem;
@@ -157,6 +210,17 @@
     <button onclick="openRandomGorilla(false)">Open in this tab</button>
     <button onclick="openRandomGorilla(true)">Open in new tab</button>
 
+    <section class="birthday-search" aria-labelledby="birthdayHeading">
+      <h2 id="birthdayHeading">Birthday matches</h2>
+      <div class="birthday-controls">
+        <label for="birthday">Your birthday</label>
+        <input id="birthday" type="date">
+        <button type="button" onclick="showBirthdayMatches()">Find matches</button>
+      </div>
+      <p id="birthdayStatus"></p>
+      <ul id="birthdayResults" class="birthday-results"></ul>
+    </section>
+
     <p>
       <a class="database-link" href="https://www.gorillasland.com/gorilla-database.php" target="_blank" rel="noopener noreferrer">Open gorilla database</a>
     </p>
@@ -190,6 +254,14 @@
       return Array.isArray(window.GORILLA_PAGE_DATA);
     }
 
+    function hasBirthdayMetadata() {
+      return Array.isArray(window.GORILLA_PAGE_DATA) &&
+        window.GORILLA_PAGE_DATA.some(record =>
+          record &&
+          Object.prototype.hasOwnProperty.call(record, "birthMonthDay")
+        );
+    }
+
     function getUpdatedText() {
       if (typeof window.GORILLA_PAGES_UPDATED !== "string") {
         return "";
@@ -219,6 +291,74 @@
 
     function randomChoice(items) {
       return items[Math.floor(Math.random() * items.length)];
+    }
+
+    function getProfileName(record) {
+      if (typeof record.name === "string" && record.name.trim()) {
+        return record.name.trim();
+      }
+
+      const filename = record.url.split("/").pop().replace(/\.php$/i, "");
+
+      return decodeURIComponent(filename)
+        .replace(/[-_]+/g, " ")
+        .replace(/\b\w/g, letter => letter.toUpperCase());
+    }
+
+    function clearBirthdayMatches() {
+      document.getElementById("birthdayStatus").textContent = "";
+      document.getElementById("birthdayResults").replaceChildren();
+    }
+
+    function updateBirthdayMatches() {
+      if (document.getElementById("birthday").value) {
+        showBirthdayMatches();
+      } else {
+        clearBirthdayMatches();
+      }
+    }
+
+    function showBirthdayMatches() {
+      const birthdayInput = document.getElementById("birthday");
+      const birthdayStatus = document.getElementById("birthdayStatus");
+      const birthdayResults = document.getElementById("birthdayResults");
+      const birthday = birthdayInput.value;
+
+      birthdayResults.replaceChildren();
+
+      if (!birthday) {
+        birthdayStatus.textContent = "Enter a birthday to find matching gorilla profiles.";
+        return;
+      }
+
+      if (!hasBirthdayMetadata()) {
+        birthdayStatus.textContent = "Re-run build_gorilla_list.py to enable birthday matching.";
+        return;
+      }
+
+      const monthDay = birthday.slice(5);
+      const matches = getPageRecords().filter(record => record.birthMonthDay === monthDay);
+
+      if (matches.length === 0) {
+        birthdayStatus.textContent = "No gorilla profiles matched that birthday.";
+        return;
+      }
+
+      birthdayStatus.textContent =
+        `Found ${matches.length} gorilla profile${matches.length === 1 ? "" : "s"} with that birthday.`;
+
+      for (const record of matches) {
+        const item = document.createElement("li");
+        const link = document.createElement("a");
+
+        link.href = record.url;
+        link.target = "_blank";
+        link.rel = "noopener noreferrer";
+        link.textContent = getProfileName(record);
+
+        item.append(link);
+        birthdayResults.append(item);
+      }
     }
 
     function openRandomGorilla(newTab) {
@@ -257,6 +397,8 @@
     aliveOnlyInput.disabled = !hasAliveMetadata();
     aliveOnlyInput.addEventListener("change", updateStatus);
     updateStatus();
+
+    document.getElementById("birthday").addEventListener("input", updateBirthdayMatches);
 
     const params = new URLSearchParams(window.location.search);
     if (params.get("auto") === "1") {
