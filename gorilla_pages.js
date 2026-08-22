@@ -1235,14 +1235,14 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/AUD2001.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2020-09-04",
+    "birthMonthDay": "09-04"
   },
   {
     "url": "https://www.gorillasland.com/Alberta.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1979-03-21",
+    "birthMonthDay": "03-21"
   },
   {
     "url": "https://www.gorillasland.com/Alexis.php",
@@ -1253,56 +1253,56 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/Ali.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2018-06-01",
+    "birthMonthDay": "06-01"
   },
   {
     "url": "https://www.gorillasland.com/Arco.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2020-09-07",
+    "birthMonthDay": "09-07"
   },
   {
     "url": "https://www.gorillasland.com/Asali-a.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2019-04-01",
+    "birthMonthDay": "04-01"
   },
   {
     "url": "https://www.gorillasland.com/Atanga.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1995-02-11",
+    "birthMonthDay": "02-11"
   },
   {
     "url": "https://www.gorillasland.com/Ayo-b.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2018-05-19",
+    "birthMonthDay": "05-19"
   },
   {
     "url": "https://www.gorillasland.com/BAR1401.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2014-03-07",
+    "birthMonthDay": "03-07"
   },
   {
     "url": "https://www.gorillasland.com/BHZ2101.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2021-09-03",
+    "birthMonthDay": "09-03"
   },
   {
     "url": "https://www.gorillasland.com/BRI1901.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2019-09-05",
+    "birthMonthDay": "09-05"
   },
   {
     "url": "https://www.gorillasland.com/Bo.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2023-05-11",
+    "birthMonthDay": "05-11"
   },
   {
     "url": "https://www.gorillasland.com/Bobga.php",
@@ -1313,26 +1313,26 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/Boboto.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2018-12-21",
+    "birthMonthDay": "12-21"
   },
   {
     "url": "https://www.gorillasland.com/Bruno.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2022-11-06",
+    "birthMonthDay": "11-06"
   },
   {
     "url": "https://www.gorillasland.com/Bukavu-a.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2018-06-20",
+    "birthMonthDay": "06-20"
   },
   {
     "url": "https://www.gorillasland.com/Burchfield.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2019-05-05",
+    "birthMonthDay": "05-05"
   },
   {
     "url": "https://www.gorillasland.com/Bwana-a.php",
@@ -1343,20 +1343,20 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/CAL2101.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2021-03-22",
+    "birthMonthDay": "03-22"
   },
   {
     "url": "https://www.gorillasland.com/Charlie-b.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2018-06-07",
+    "birthMonthDay": "06-07"
   },
   {
     "url": "https://www.gorillasland.com/Charlotte.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2023-02-14",
+    "birthMonthDay": "02-14"
   },
   {
     "url": "https://www.gorillasland.com/Cucu.php",
@@ -1373,56 +1373,56 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/Damsi.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2018-10-18",
+    "birthMonthDay": "10-18"
   },
   {
     "url": "https://www.gorillasland.com/Djeke.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2019-06-12",
+    "birthMonthDay": "06-12"
   },
   {
     "url": "https://www.gorillasland.com/Felix-a.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2019-04-11",
+    "birthMonthDay": "04-11"
   },
   {
     "url": "https://www.gorillasland.com/Floyd.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2019-07-24",
+    "birthMonthDay": "07-24"
   },
   {
     "url": "https://www.gorillasland.com/GIV1901.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2019-01-19",
+    "birthMonthDay": "01-19"
   },
   {
     "url": "https://www.gorillasland.com/Gandai.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2018-09-28",
+    "birthMonthDay": "09-28"
   },
   {
     "url": "https://www.gorillasland.com/Grace-a.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2019-05-01",
+    "birthMonthDay": "05-01"
   },
   {
     "url": "https://www.gorillasland.com/Haidi.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2012-05-17",
+    "birthMonthDay": "05-17"
   },
   {
     "url": "https://www.gorillasland.com/Ikebe.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2018-05-08",
+    "birthMonthDay": "05-08"
   },
   {
     "url": "https://www.gorillasland.com/Ivan.php",
@@ -1439,20 +1439,20 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/Juni.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2020-12-22",
+    "birthMonthDay": "12-22"
   },
   {
     "url": "https://www.gorillasland.com/Kaius.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2022-10-21",
+    "birthMonthDay": "10-21"
   },
   {
     "url": "https://www.gorillasland.com/Kibara-a.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2021-11-29",
+    "birthMonthDay": "11-29"
   },
   {
     "url": "https://www.gorillasland.com/Kibi-a.php",
@@ -1463,8 +1463,8 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/Kibwe.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2018-04-25",
+    "birthMonthDay": "04-25"
   },
   {
     "url": "https://www.gorillasland.com/Kintaro.php",
@@ -1475,44 +1475,44 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/Kione.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2020-09-12",
+    "birthMonthDay": "09-12"
   },
   {
     "url": "https://www.gorillasland.com/Kipande.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2018-04-19",
+    "birthMonthDay": "04-19"
   },
   {
     "url": "https://www.gorillasland.com/Kovanga.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2019-03-16",
+    "birthMonthDay": "03-16"
   },
   {
     "url": "https://www.gorillasland.com/Kruger.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2019-06-09",
+    "birthMonthDay": "06-09"
   },
   {
     "url": "https://www.gorillasland.com/Louango.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2018-05-25",
+    "birthMonthDay": "05-25"
   },
   {
     "url": "https://www.gorillasland.com/Lumba.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2006-08-19",
+    "birthMonthDay": "08-19"
   },
   {
     "url": "https://www.gorillasland.com/MUN2301.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2023-01-01",
+    "birthMonthDay": "01-01"
   },
   {
     "url": "https://www.gorillasland.com/Maya.php",
@@ -1523,32 +1523,32 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/Mbaku.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2018-10-27",
+    "birthMonthDay": "10-27"
   },
   {
     "url": "https://www.gorillasland.com/Mbani.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2019-03-07",
+    "birthMonthDay": "03-07"
   },
   {
     "url": "https://www.gorillasland.com/Mies.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2019-05-16",
+    "birthMonthDay": "05-16"
   },
   {
     "url": "https://www.gorillasland.com/Moke.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2018-04-15",
+    "birthMonthDay": "04-15"
   },
   {
     "url": "https://www.gorillasland.com/Mondika-a.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2019-05-12",
+    "birthMonthDay": "05-12"
   },
   {
     "url": "https://www.gorillasland.com/Musuka.php",
@@ -1559,14 +1559,14 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/NTao.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1979-01-06",
+    "birthMonthDay": "01-06"
   },
   {
     "url": "https://www.gorillasland.com/NUR1901.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2019-11-03",
+    "birthMonthDay": "11-03"
   },
   {
     "url": "https://www.gorillasland.com/Nbia.php",
@@ -1577,8 +1577,8 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/Ndoki.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2007-05-03",
+    "birthMonthDay": "05-03"
   },
   {
     "url": "https://www.gorillasland.com/Niout.php",
@@ -1589,8 +1589,8 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/Nuru-a.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2018-01-31",
+    "birthMonthDay": "01-31"
   },
   {
     "url": "https://www.gorillasland.com/Pedro.php",
@@ -1601,14 +1601,14 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/Pelu.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2018-01-11",
+    "birthMonthDay": "01-11"
   },
   {
     "url": "https://www.gorillasland.com/Pepe-a.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2018-03-08",
+    "birthMonthDay": "03-08"
   },
   {
     "url": "https://www.gorillasland.com/Platon.php",
@@ -1625,20 +1625,20 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/ROS1901.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2019-05-06",
+    "birthMonthDay": "05-06"
   },
   {
     "url": "https://www.gorillasland.com/Saambili.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2018-06-25",
+    "birthMonthDay": "06-25"
   },
   {
     "url": "https://www.gorillasland.com/Saffi.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2023-04-17",
+    "birthMonthDay": "04-17"
   },
   {
     "url": "https://www.gorillasland.com/Samba.php",
@@ -1649,14 +1649,14 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/Tamiela.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1997-06-26",
+    "birthMonthDay": "06-26"
   },
   {
     "url": "https://www.gorillasland.com/Thandie.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2018-11-27",
+    "birthMonthDay": "11-27"
   },
   {
     "url": "https://www.gorillasland.com/Xara.php",
@@ -1667,68 +1667,68 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/Xia.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2019-01-22",
+    "birthMonthDay": "01-22"
   },
   {
     "url": "https://www.gorillasland.com/Yzia.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2020-11-18",
+    "birthMonthDay": "11-18"
   },
   {
     "url": "https://www.gorillasland.com/Zahra-a.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2023-05-27",
+    "birthMonthDay": "05-27"
   },
   {
     "url": "https://www.gorillasland.com/Zuri.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2019-05-05",
+    "birthMonthDay": "05-05"
   },
   {
     "url": "https://www.gorillasland.com/aarde.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2022-04-24",
+    "birthMonthDay": "04-24"
   },
   {
     "url": "https://www.gorillasland.com/abeeku.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1999-05-05",
+    "birthMonthDay": "05-05"
   },
   {
     "url": "https://www.gorillasland.com/acacia-r.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1995-01-14",
+    "birthMonthDay": "01-14"
   },
   {
     "url": "https://www.gorillasland.com/ada-disney.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2021-07-13",
+    "birthMonthDay": "07-13"
   },
   {
     "url": "https://www.gorillasland.com/ada.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1977-05-18",
+    "birthMonthDay": "05-18"
   },
   {
     "url": "https://www.gorillasland.com/adelina.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2012-08-19",
+    "birthMonthDay": "08-19"
   },
   {
     "url": "https://www.gorillasland.com/adira.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2006-10-12",
+    "birthMonthDay": "10-12"
   },
   {
     "url": "https://www.gorillasland.com/afanengui.php",
@@ -1739,20 +1739,20 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/affy.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2009-08-16",
+    "birthMonthDay": "08-16"
   },
   {
     "url": "https://www.gorillasland.com/afia.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2016-02-12",
+    "birthMonthDay": "02-12"
   },
   {
     "url": "https://www.gorillasland.com/afiya.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2016-07-22",
+    "birthMonthDay": "07-22"
   },
   {
     "url": "https://www.gorillasland.com/africa.php",
@@ -1763,38 +1763,38 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/ai.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2003-02-27",
+    "birthMonthDay": "02-27"
   },
   {
     "url": "https://www.gorillasland.com/ajabu-a.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2022-02-11",
+    "birthMonthDay": "02-11"
   },
   {
     "url": "https://www.gorillasland.com/ajabu-p.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2017-06-02",
+    "birthMonthDay": "06-02"
   },
   {
     "url": "https://www.gorillasland.com/ajabu.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2016-04-23",
+    "birthMonthDay": "04-23"
   },
   {
     "url": "https://www.gorillasland.com/ajari.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2000-10-30",
+    "birthMonthDay": "10-30"
   },
   {
     "url": "https://www.gorillasland.com/akiba-a.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2015-03-19",
+    "birthMonthDay": "03-19"
   },
   {
     "url": "https://www.gorillasland.com/akiba.php",
@@ -1805,20 +1805,20 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/akiki.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2007-04-04",
+    "birthMonthDay": "04-04"
   },
   {
     "url": "https://www.gorillasland.com/akili.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1994-10-16",
+    "birthMonthDay": "10-16"
   },
   {
     "url": "https://www.gorillasland.com/akono.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2020-10-14",
+    "birthMonthDay": "10-14"
   },
   {
     "url": "https://www.gorillasland.com/akou.php",
@@ -1829,50 +1829,50 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/alafia.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1990-11-30",
+    "birthMonthDay": "11-30"
   },
   {
     "url": "https://www.gorillasland.com/alf.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2003-02-10",
+    "birthMonthDay": "02-10"
   },
   {
     "url": "https://www.gorillasland.com/ali-val.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2000-04-29",
+    "birthMonthDay": "04-29"
   },
   {
     "url": "https://www.gorillasland.com/alice.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2002-06-22",
+    "birthMonthDay": "06-22"
   },
   {
     "url": "https://www.gorillasland.com/alika-scz.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2016-08-03",
+    "birthMonthDay": "08-03"
   },
   {
     "url": "https://www.gorillasland.com/alika.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2014-12-10",
+    "birthMonthDay": "12-10"
   },
   {
     "url": "https://www.gorillasland.com/alladin.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1998-07-04",
+    "birthMonthDay": "07-04"
   },
   {
     "url": "https://www.gorillasland.com/ama.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2013-09-29",
+    "birthMonthDay": "09-29"
   },
   {
     "url": "https://www.gorillasland.com/amahoro.php",
@@ -1889,110 +1889,110 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/amani-b.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1973-01-01",
+    "birthMonthDay": "01-01"
   },
   {
     "url": "https://www.gorillasland.com/amani-p.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2016-08-26",
+    "birthMonthDay": "08-26"
   },
   {
     "url": "https://www.gorillasland.com/amani.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1985-09-18",
+    "birthMonthDay": "09-18"
   },
   {
     "url": "https://www.gorillasland.com/amare.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2005-07-26",
+    "birthMonthDay": "07-26"
   },
   {
     "url": "https://www.gorillasland.com/amari.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2010-10-08",
+    "birthMonthDay": "10-08"
   },
   {
     "url": "https://www.gorillasland.com/amaria.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2019-11-15",
+    "birthMonthDay": "11-15"
   },
   {
     "url": "https://www.gorillasland.com/ambam.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1990-04-14",
+    "birthMonthDay": "04-14"
   },
   {
     "url": "https://www.gorillasland.com/amelia.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2012-10-25",
+    "birthMonthDay": "10-25"
   },
   {
     "url": "https://www.gorillasland.com/amiri.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2013-02-16",
+    "birthMonthDay": "02-16"
   },
   {
     "url": "https://www.gorillasland.com/anaka.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2013-08-30",
+    "birthMonthDay": "08-30"
   },
   {
     "url": "https://www.gorillasland.com/anakka.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1985-06-01",
+    "birthMonthDay": "06-01"
   },
   {
     "url": "https://www.gorillasland.com/anandi.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2015-11-13",
+    "birthMonthDay": "11-13"
   },
   {
     "url": "https://www.gorillasland.com/anaya.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2019-06-08",
+    "birthMonthDay": "06-08"
   },
   {
     "url": "https://www.gorillasland.com/andi-atl.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2013-03-14",
+    "birthMonthDay": "03-14"
   },
   {
     "url": "https://www.gorillasland.com/angel.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1987-07-31",
+    "birthMonthDay": "07-31"
   },
   {
     "url": "https://www.gorillasland.com/angela.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2020-01-18",
+    "birthMonthDay": "01-18"
   },
   {
     "url": "https://www.gorillasland.com/anguka.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1994-10-28",
+    "birthMonthDay": "10-28"
   },
   {
     "url": "https://www.gorillasland.com/anju.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2001-04-27",
+    "birthMonthDay": "04-27"
   },
   {
     "url": "https://www.gorillasland.com/annette.php",
@@ -2003,182 +2003,182 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/anny.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2013-06-02",
+    "birthMonthDay": "06-02"
   },
   {
     "url": "https://www.gorillasland.com/anya.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1987-03-03",
+    "birthMonthDay": "03-03"
   },
   {
     "url": "https://www.gorillasland.com/apollo.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2012-08-31",
+    "birthMonthDay": "08-31"
   },
   {
     "url": "https://www.gorillasland.com/artis.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1983-11-06",
+    "birthMonthDay": "11-06"
   },
   {
     "url": "https://www.gorillasland.com/asali.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2003-11-17",
+    "birthMonthDay": "11-17"
   },
   {
     "url": "https://www.gorillasland.com/asanti.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1985-06-06",
+    "birthMonthDay": "06-06"
   },
   {
     "url": "https://www.gorillasland.com/asato.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1991-10-20",
+    "birthMonthDay": "10-20"
   },
   {
     "url": "https://www.gorillasland.com/asha-a.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2002-12-04",
+    "birthMonthDay": "12-04"
   },
   {
     "url": "https://www.gorillasland.com/asha.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1992-10-05",
+    "birthMonthDay": "10-05"
   },
   {
     "url": "https://www.gorillasland.com/ashmar.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1992-01-03",
+    "birthMonthDay": "01-03"
   },
   {
     "url": "https://www.gorillasland.com/asili.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1991-07-26",
+    "birthMonthDay": "07-26"
   },
   {
     "url": "https://www.gorillasland.com/assumbo.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1973-07-15",
+    "birthMonthDay": "07-15"
   },
   {
     "url": "https://www.gorillasland.com/astra.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1995-08-07",
+    "birthMonthDay": "08-07"
   },
   {
     "url": "https://www.gorillasland.com/atinbi.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2009-03-03",
+    "birthMonthDay": "03-03"
   },
   {
     "url": "https://www.gorillasland.com/augustus.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1981-08-09",
+    "birthMonthDay": "08-09"
   },
   {
     "url": "https://www.gorillasland.com/awali.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1993-04-24",
+    "birthMonthDay": "04-24"
   },
   {
     "url": "https://www.gorillasland.com/awembe.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2000-11-08",
+    "birthMonthDay": "11-08"
   },
   {
     "url": "https://www.gorillasland.com/aya.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1995-02-27",
+    "birthMonthDay": "02-27"
   },
   {
     "url": "https://www.gorillasland.com/ayana-bristol.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2017-04-22",
+    "birthMonthDay": "04-22"
   },
   {
     "url": "https://www.gorillasland.com/ayana-gracie.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1999-03-21",
+    "birthMonthDay": "03-21"
   },
   {
     "url": "https://www.gorillasland.com/ayana.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2007-04-21",
+    "birthMonthDay": "04-21"
   },
   {
     "url": "https://www.gorillasland.com/ayba.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2010-12-05",
+    "birthMonthDay": "12-05"
   },
   {
     "url": "https://www.gorillasland.com/aybo.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2014-12-09",
+    "birthMonthDay": "12-09"
   },
   {
     "url": "https://www.gorillasland.com/ayo-a.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2015-05-27",
+    "birthMonthDay": "05-27"
   },
   {
     "url": "https://www.gorillasland.com/ayo-c.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2017-05-08",
+    "birthMonthDay": "05-08"
   },
   {
     "url": "https://www.gorillasland.com/ayo.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2012-12-31",
+    "birthMonthDay": "12-31"
   },
   {
     "url": "https://www.gorillasland.com/azizi-a.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1997-02-06",
+    "birthMonthDay": "02-06"
   },
   {
     "url": "https://www.gorillasland.com/azizi-b.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2003-12-04",
+    "birthMonthDay": "12-04"
   },
   {
     "url": "https://www.gorillasland.com/azizi.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2000-05-17",
+    "birthMonthDay": "05-17"
   },
   {
     "url": "https://www.gorillasland.com/baako.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2013-08-03",
+    "birthMonthDay": "08-03"
   },
   {
     "url": "https://www.gorillasland.com/babalu.php",
@@ -2189,8 +2189,8 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/babatunde.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2006-01-11",
+    "birthMonthDay": "01-11"
   },
   {
     "url": "https://www.gorillasland.com/babsi.php",
@@ -2201,14 +2201,14 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/babuka.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1992-02-07",
+    "birthMonthDay": "02-07"
   },
   {
     "url": "https://www.gorillasland.com/babule.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2010-02-28",
+    "birthMonthDay": "02-28"
   },
   {
     "url": "https://www.gorillasland.com/baby-doll.php",
@@ -2219,8 +2219,8 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/badongo.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1999-09-27",
+    "birthMonthDay": "09-27"
   },
   {
     "url": "https://www.gorillasland.com/bafia.php",
@@ -2231,20 +2231,20 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/bagira.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1986-06-06",
+    "birthMonthDay": "06-06"
   },
   {
     "url": "https://www.gorillasland.com/bahasha.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1994-04-23",
+    "birthMonthDay": "04-23"
   },
   {
     "url": "https://www.gorillasland.com/bahati.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1990-09-20",
+    "birthMonthDay": "09-20"
   },
   {
     "url": "https://www.gorillasland.com/bak.php",
@@ -2255,68 +2255,68 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/bakari-st.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2005-05-02",
+    "birthMonthDay": "05-02"
   },
   {
     "url": "https://www.gorillasland.com/balinga.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2009-07-30",
+    "birthMonthDay": "07-30"
   },
   {
     "url": "https://www.gorillasland.com/baloo.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2004-12-02",
+    "birthMonthDay": "12-02"
   },
   {
     "url": "https://www.gorillasland.com/bambio.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2003-08-16",
+    "birthMonthDay": "08-16"
   },
   {
     "url": "https://www.gorillasland.com/bamilla.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1987-08-29",
+    "birthMonthDay": "08-29"
   },
   {
     "url": "https://www.gorillasland.com/bana.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1995-03-06",
+    "birthMonthDay": "03-06"
   },
   {
     "url": "https://www.gorillasland.com/bandi.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1997-03-13",
+    "birthMonthDay": "03-13"
   },
   {
     "url": "https://www.gorillasland.com/bandia.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1997-09-13",
+    "birthMonthDay": "09-13"
   },
   {
     "url": "https://www.gorillasland.com/banga.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1991-08-19",
+    "birthMonthDay": "08-19"
   },
   {
     "url": "https://www.gorillasland.com/bangori.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2004-02-18",
+    "birthMonthDay": "02-18"
   },
   {
     "url": "https://www.gorillasland.com/bangui.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2009-06-25",
+    "birthMonthDay": "06-25"
   },
   {
     "url": "https://www.gorillasland.com/banjo.php",
@@ -2327,56 +2327,56 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/banjoko.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2006-12-16",
+    "birthMonthDay": "12-16"
   },
   {
     "url": "https://www.gorillasland.com/bar-00-01.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2000-01-30",
+    "birthMonthDay": "01-30"
   },
   {
     "url": "https://www.gorillasland.com/bar-00-03.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2000-03-07",
+    "birthMonthDay": "03-07"
   },
   {
     "url": "https://www.gorillasland.com/bar-02-01.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2002-05-31",
+    "birthMonthDay": "05-31"
   },
   {
     "url": "https://www.gorillasland.com/bar-04-01.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2004-10-13",
+    "birthMonthDay": "10-13"
   },
   {
     "url": "https://www.gorillasland.com/bar-05-01.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2005-07-26",
+    "birthMonthDay": "07-26"
   },
   {
     "url": "https://www.gorillasland.com/bar-85-01.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1985-04-15",
+    "birthMonthDay": "04-15"
   },
   {
     "url": "https://www.gorillasland.com/bar-85-02.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1985-10-12",
+    "birthMonthDay": "10-12"
   },
   {
     "url": "https://www.gorillasland.com/bar-88-01.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1988-07-05",
+    "birthMonthDay": "07-05"
   },
   {
     "url": "https://www.gorillasland.com/bar-98-01.php",
@@ -2387,8 +2387,8 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/baraka-ya-mwelu.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1992-04-11",
+    "birthMonthDay": "04-11"
   },
   {
     "url": "https://www.gorillasland.com/baraka.php",
@@ -2399,62 +2399,62 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/barika.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2000-10-18",
+    "birthMonthDay": "10-18"
   },
   {
     "url": "https://www.gorillasland.com/barney.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1993-10-12",
+    "birthMonthDay": "10-12"
   },
   {
     "url": "https://www.gorillasland.com/barraca.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2006-02-19",
+    "birthMonthDay": "02-19"
   },
   {
     "url": "https://www.gorillasland.com/bas-24-01.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2024-02-01",
+    "birthMonthDay": "02-01"
   },
   {
     "url": "https://www.gorillasland.com/basoko.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2020-05-16",
+    "birthMonthDay": "05-16"
   },
   {
     "url": "https://www.gorillasland.com/bassa.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1977-07-23",
+    "birthMonthDay": "07-23"
   },
   {
     "url": "https://www.gorillasland.com/batanga.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1999-02-08",
+    "birthMonthDay": "02-08"
   },
   {
     "url": "https://www.gorillasland.com/batouri.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1991-12-30",
+    "birthMonthDay": "12-30"
   },
   {
     "url": "https://www.gorillasland.com/bauwi.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1989-07-19",
+    "birthMonthDay": "07-19"
   },
   {
     "url": "https://www.gorillasland.com/bawang.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1980-07-13",
+    "birthMonthDay": "07-13"
   },
   {
     "url": "https://www.gorillasland.com/bebe.php",
@@ -2465,44 +2465,44 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/bella.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2015-02-24",
+    "birthMonthDay": "02-24"
   },
   {
     "url": "https://www.gorillasland.com/bembosi.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2011-05-21",
+    "birthMonthDay": "05-21"
   },
   {
     "url": "https://www.gorillasland.com/benga.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1971-04-21",
+    "birthMonthDay": "04-21"
   },
   {
     "url": "https://www.gorillasland.com/bengati.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1998-06-01",
+    "birthMonthDay": "06-01"
   },
   {
     "url": "https://www.gorillasland.com/ber-24-01.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2024-03-03",
+    "birthMonthDay": "03-03"
   },
   {
     "url": "https://www.gorillasland.com/ber2102.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2021-09-11",
+    "birthMonthDay": "09-11"
   },
   {
     "url": "https://www.gorillasland.com/besseki.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2000-02-13",
+    "birthMonthDay": "02-13"
   },
   {
     "url": "https://www.gorillasland.com/betsy.php",
@@ -2513,8 +2513,8 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/bhz1701.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2017-02-22",
+    "birthMonthDay": "02-22"
   },
   {
     "url": "https://www.gorillasland.com/bianka.php",
@@ -2525,8 +2525,8 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/bibi.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1997-02-25",
+    "birthMonthDay": "02-25"
   },
   {
     "url": "https://www.gorillasland.com/biddy.php",
@@ -2537,14 +2537,14 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/bikira.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1995-08-12",
+    "birthMonthDay": "08-12"
   },
   {
     "url": "https://www.gorillasland.com/billy.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1990-10-17",
+    "birthMonthDay": "10-17"
   },
   {
     "url": "https://www.gorillasland.com/bimvili.php",
@@ -2555,38 +2555,38 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/bindung-ii.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1981-07-19",
+    "birthMonthDay": "07-19"
   },
   {
     "url": "https://www.gorillasland.com/bindung.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1977-01-19",
+    "birthMonthDay": "01-19"
   },
   {
     "url": "https://www.gorillasland.com/binga.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2001-12-11",
+    "birthMonthDay": "12-11"
   },
   {
     "url": "https://www.gorillasland.com/binti-artis.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1992-11-19",
+    "birthMonthDay": "11-19"
   },
   {
     "url": "https://www.gorillasland.com/binti-houston.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1974-10-02",
+    "birthMonthDay": "10-02"
   },
   {
     "url": "https://www.gorillasland.com/binti-jua.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1988-03-17",
+    "birthMonthDay": "03-17"
   },
   {
     "url": "https://www.gorillasland.com/bioko.php",
@@ -2603,14 +2603,14 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/bitanu.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2003-11-01",
+    "birthMonthDay": "11-01"
   },
   {
     "url": "https://www.gorillasland.com/bitono.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2001-03-28",
+    "birthMonthDay": "03-28"
   },
   {
     "url": "https://www.gorillasland.com/bobby.php",
@@ -2621,20 +2621,20 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/bobo.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1992-06-01",
+    "birthMonthDay": "06-01"
   },
   {
     "url": "https://www.gorillasland.com/bokito.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1996-03-14",
+    "birthMonthDay": "03-14"
   },
   {
     "url": "https://www.gorillasland.com/bolingo.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2005-11-18",
+    "birthMonthDay": "11-18"
   },
   {
     "url": "https://www.gorillasland.com/bom.php",
@@ -2645,8 +2645,8 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/boma-a.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1996-08-04",
+    "birthMonthDay": "08-04"
   },
   {
     "url": "https://www.gorillasland.com/boma.php",
@@ -2657,20 +2657,20 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/bomani.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2016-06-30",
+    "birthMonthDay": "06-30"
   },
   {
     "url": "https://www.gorillasland.com/bomassa.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2012-08-04",
+    "birthMonthDay": "08-04"
   },
   {
     "url": "https://www.gorillasland.com/bongo-a.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1990-04-16",
+    "birthMonthDay": "04-16"
   },
   {
     "url": "https://www.gorillasland.com/bongo-apenheul.php",
@@ -2681,32 +2681,32 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/bongo.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2010-01-05",
+    "birthMonthDay": "01-05"
   },
   {
     "url": "https://www.gorillasland.com/bosenga.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2001-09-09",
+    "birthMonthDay": "09-09"
   },
   {
     "url": "https://www.gorillasland.com/bou.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2011-02-22",
+    "birthMonthDay": "02-22"
   },
   {
     "url": "https://www.gorillasland.com/boula.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2007-04-09",
+    "birthMonthDay": "04-09"
   },
   {
     "url": "https://www.gorillasland.com/boulas.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1986-07-13",
+    "birthMonthDay": "07-13"
   },
   {
     "url": "https://www.gorillasland.com/bouleman.php",
@@ -2717,8 +2717,8 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/boumi.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1989-06-13",
+    "birthMonthDay": "06-13"
   },
   {
     "url": "https://www.gorillasland.com/brighter.php",
@@ -2729,14 +2729,14 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/brutus.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1978-06-16",
+    "birthMonthDay": "06-16"
   },
   {
     "url": "https://www.gorillasland.com/bu-bu.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1997-08-27",
+    "birthMonthDay": "08-27"
   },
   {
     "url": "https://www.gorillasland.com/buanoi.php",
@@ -2747,74 +2747,74 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/bubi.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1986-11-11",
+    "birthMonthDay": "11-11"
   },
   {
     "url": "https://www.gorillasland.com/bukavu.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1997-07-21",
+    "birthMonthDay": "07-21"
   },
   {
     "url": "https://www.gorillasland.com/bulera.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1989-01-22",
+    "birthMonthDay": "01-22"
   },
   {
     "url": "https://www.gorillasland.com/buu.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1996-11-30",
+    "birthMonthDay": "11-30"
   },
   {
     "url": "https://www.gorillasland.com/bwana.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2007-03-13",
+    "birthMonthDay": "03-13"
   },
   {
     "url": "https://www.gorillasland.com/bwenzi.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2002-06-11",
+    "birthMonthDay": "06-11"
   },
   {
     "url": "https://www.gorillasland.com/cab-12-01.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2012-04-24",
+    "birthMonthDay": "04-24"
   },
   {
     "url": "https://www.gorillasland.com/calaya.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2002-08-30",
+    "birthMonthDay": "08-30"
   },
   {
     "url": "https://www.gorillasland.com/casey-ii.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1982-06-28",
+    "birthMonthDay": "06-28"
   },
   {
     "url": "https://www.gorillasland.com/cassie.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1993-08-15",
+    "birthMonthDay": "08-15"
   },
   {
     "url": "https://www.gorillasland.com/cassius.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1986-08-23",
+    "birthMonthDay": "08-23"
   },
   {
     "url": "https://www.gorillasland.com/catherin.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1983-05-18",
+    "birthMonthDay": "05-18"
   },
   {
     "url": "https://www.gorillasland.com/catou.php",
@@ -2825,38 +2825,38 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/cc.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2017-02-22",
+    "birthMonthDay": "02-22"
   },
   {
     "url": "https://www.gorillasland.com/cecil.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1998-11-03",
+    "birthMonthDay": "11-03"
   },
   {
     "url": "https://www.gorillasland.com/cenzoo-r.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1996-02-02",
+    "birthMonthDay": "02-02"
   },
   {
     "url": "https://www.gorillasland.com/chaka.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1984-07-22",
+    "birthMonthDay": "07-22"
   },
   {
     "url": "https://www.gorillasland.com/chama.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2011-07-03",
+    "birthMonthDay": "07-03"
   },
   {
     "url": "https://www.gorillasland.com/changa.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1996-06-09",
+    "birthMonthDay": "06-09"
   },
   {
     "url": "https://www.gorillasland.com/charles.php",
@@ -2867,14 +2867,14 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/charlie-a.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1996-06-07",
+    "birthMonthDay": "06-07"
   },
   {
     "url": "https://www.gorillasland.com/charlie.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1996-03-20",
+    "birthMonthDay": "03-20"
   },
   {
     "url": "https://www.gorillasland.com/chato.php",
@@ -2885,8 +2885,8 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/chelewa.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2005-12-31",
+    "birthMonthDay": "12-31"
   },
   {
     "url": "https://www.gorillasland.com/chella.php",
@@ -2903,8 +2903,8 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/chewie.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1995-09-17",
+    "birthMonthDay": "09-17"
   },
   {
     "url": "https://www.gorillasland.com/chipua.php",
@@ -2921,14 +2921,14 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/chuma.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1996-11-08",
+    "birthMonthDay": "11-08"
   },
   {
     "url": "https://www.gorillasland.com/claudia.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2009-08-02",
+    "birthMonthDay": "08-02"
   },
   {
     "url": "https://www.gorillasland.com/coco.php",
@@ -2939,8 +2939,8 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/colo.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1956-12-22",
+    "birthMonthDay": "12-22"
   },
   {
     "url": "https://www.gorillasland.com/copito-de-nieve.php",
@@ -2951,20 +2951,20 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/cory.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2014-08-07",
+    "birthMonthDay": "08-07"
   },
   {
     "url": "https://www.gorillasland.com/curtis.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1994-09-23",
+    "birthMonthDay": "09-23"
   },
   {
     "url": "https://www.gorillasland.com/dafina.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1987-01-02",
+    "birthMonthDay": "01-02"
   },
   {
     "url": "https://www.gorillasland.com/dalilah.php",
@@ -2975,20 +2975,20 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/damisi.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1997-04-14",
+    "birthMonthDay": "04-14"
   },
   {
     "url": "https://www.gorillasland.com/dango.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1992-04-01",
+    "birthMonthDay": "04-01"
   },
   {
     "url": "https://www.gorillasland.com/dayo.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2008-06-18",
+    "birthMonthDay": "06-18"
   },
   {
     "url": "https://www.gorillasland.com/delilah.php",
@@ -2999,38 +2999,38 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/demba-a.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1970-07-10",
+    "birthMonthDay": "07-10"
   },
   {
     "url": "https://www.gorillasland.com/demba.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2013-01-13",
+    "birthMonthDay": "01-13"
   },
   {
     "url": "https://www.gorillasland.com/dembe.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2012-08-14",
+    "birthMonthDay": "08-14"
   },
   {
     "url": "https://www.gorillasland.com/denny.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2014-12-26",
+    "birthMonthDay": "12-26"
   },
   {
     "url": "https://www.gorillasland.com/derrick.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1980-01-13",
+    "birthMonthDay": "01-13"
   },
   {
     "url": "https://www.gorillasland.com/dian.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1989-01-04",
+    "birthMonthDay": "01-04"
   },
   {
     "url": "https://www.gorillasland.com/diana.php",
@@ -3041,8 +3041,8 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/diara.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2014-03-11",
+    "birthMonthDay": "03-11"
   },
   {
     "url": "https://www.gorillasland.com/digit-dubai.php",
@@ -3053,20 +3053,20 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/digit.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1998-10-27",
+    "birthMonthDay": "10-27"
   },
   {
     "url": "https://www.gorillasland.com/dihi.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1984-04-27",
+    "birthMonthDay": "04-27"
   },
   {
     "url": "https://www.gorillasland.com/dishi.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2000-03-30",
+    "birthMonthDay": "03-30"
   },
   {
     "url": "https://www.gorillasland.com/djala.php",
@@ -3077,50 +3077,50 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/djambala.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2001-07-25",
+    "birthMonthDay": "07-25"
   },
   {
     "url": "https://www.gorillasland.com/djanghou.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1993-12-03",
+    "birthMonthDay": "12-03"
   },
   {
     "url": "https://www.gorillasland.com/djeeco.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1998-10-22",
+    "birthMonthDay": "10-22"
   },
   {
     "url": "https://www.gorillasland.com/djemba.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2012-02-19",
+    "birthMonthDay": "02-19"
   },
   {
     "url": "https://www.gorillasland.com/djengi.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2000-06-26",
+    "birthMonthDay": "06-26"
   },
   {
     "url": "https://www.gorillasland.com/djimu.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1992-12-30",
+    "birthMonthDay": "12-30"
   },
   {
     "url": "https://www.gorillasland.com/djomo.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2008-09-16",
+    "birthMonthDay": "09-16"
   },
   {
     "url": "https://www.gorillasland.com/djongo.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2006-10-04",
+    "birthMonthDay": "10-04"
   },
   {
     "url": "https://www.gorillasland.com/djoum.php",
@@ -3131,20 +3131,20 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/djumbah.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1996-08-19",
+    "birthMonthDay": "08-19"
   },
   {
     "url": "https://www.gorillasland.com/doba.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1996-08-14",
+    "birthMonthDay": "08-14"
   },
   {
     "url": "https://www.gorillasland.com/donge.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1985-04-10",
+    "birthMonthDay": "04-10"
   },
   {
     "url": "https://www.gorillasland.com/donna.php",
@@ -3155,32 +3155,32 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/dorle.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1971-05-27",
+    "birthMonthDay": "05-27"
   },
   {
     "url": "https://www.gorillasland.com/dossi.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2001-02-04",
+    "birthMonthDay": "02-04"
   },
   {
     "url": "https://www.gorillasland.com/dotty-mashavu.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2004-04-17",
+    "birthMonthDay": "04-17"
   },
   {
     "url": "https://www.gorillasland.com/douli.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2012-02-27",
+    "birthMonthDay": "02-27"
   },
   {
     "url": "https://www.gorillasland.com/duni.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2013-04-16",
+    "birthMonthDay": "04-16"
   },
   {
     "url": "https://www.gorillasland.com/dunia.php",
@@ -3191,56 +3191,56 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/dur-13-01.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2013-04-08",
+    "birthMonthDay": "04-08"
   },
   {
     "url": "https://www.gorillasland.com/dur-16-01.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2016-04-26",
+    "birthMonthDay": "04-26"
   },
   {
     "url": "https://www.gorillasland.com/dur-16-02.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2016-04-26",
+    "birthMonthDay": "04-26"
   },
   {
     "url": "https://www.gorillasland.com/dura.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1988-02-21",
+    "birthMonthDay": "02-21"
   },
   {
     "url": "https://www.gorillasland.com/dvu-04-01.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2004-07-05",
+    "birthMonthDay": "07-05"
   },
   {
     "url": "https://www.gorillasland.com/dvu-89-01.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1989-05-01",
+    "birthMonthDay": "05-01"
   },
   {
     "url": "https://www.gorillasland.com/ebeki.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2003-05-18",
+    "birthMonthDay": "05-18"
   },
   {
     "url": "https://www.gorillasland.com/ebo.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2012-10-26",
+    "birthMonthDay": "10-26"
   },
   {
     "url": "https://www.gorillasland.com/ebobo.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2000-01-18",
+    "birthMonthDay": "01-18"
   },
   {
     "url": "https://www.gorillasland.com/echo.php",
@@ -3251,98 +3251,98 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/edu.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1973-04-14",
+    "birthMonthDay": "04-14"
   },
   {
     "url": "https://www.gorillasland.com/efata.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1982-04-17",
+    "birthMonthDay": "04-17"
   },
   {
     "url": "https://www.gorillasland.com/effie.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1993-03-05",
+    "birthMonthDay": "03-05"
   },
   {
     "url": "https://www.gorillasland.com/ekan.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2020-11-07",
+    "birthMonthDay": "11-07"
   },
   {
     "url": "https://www.gorillasland.com/ekuba.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2006-03-05",
+    "birthMonthDay": "03-05"
   },
   {
     "url": "https://www.gorillasland.com/ela.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1981-07-11",
+    "birthMonthDay": "07-11"
   },
   {
     "url": "https://www.gorillasland.com/elle.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2015-08-25",
+    "birthMonthDay": "08-25"
   },
   {
     "url": "https://www.gorillasland.com/ellen.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1967-05-03",
+    "birthMonthDay": "05-03"
   },
   {
     "url": "https://www.gorillasland.com/elmo.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1990-03-05",
+    "birthMonthDay": "03-05"
   },
   {
     "url": "https://www.gorillasland.com/elroi.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2021-04-05",
+    "birthMonthDay": "04-05"
   },
   {
     "url": "https://www.gorillasland.com/emba.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1991-10-29",
+    "birthMonthDay": "10-29"
   },
   {
     "url": "https://www.gorillasland.com/emmie.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1991-10-12",
+    "birthMonthDay": "10-12"
   },
   {
     "url": "https://www.gorillasland.com/enea.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2004-11-29",
+    "birthMonthDay": "11-29"
   },
   {
     "url": "https://www.gorillasland.com/enzi.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2014-12-16",
+    "birthMonthDay": "12-16"
   },
   {
     "url": "https://www.gorillasland.com/enzo.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2006-04-01",
+    "birthMonthDay": "04-01"
   },
   {
     "url": "https://www.gorillasland.com/ernie.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1982-12-07",
+    "birthMonthDay": "12-07"
   },
   {
     "url": "https://www.gorillasland.com/ernst.php",
@@ -3353,8 +3353,8 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/esiankiki.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2007-04-25",
+    "birthMonthDay": "04-25"
   },
   {
     "url": "https://www.gorillasland.com/esseng.php",
@@ -3365,68 +3365,68 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/esuma.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1980-04-02",
+    "birthMonthDay": "04-02"
   },
   {
     "url": "https://www.gorillasland.com/euro.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1999-01-04",
+    "birthMonthDay": "01-04"
   },
   {
     "url": "https://www.gorillasland.com/evelyn.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1976-03-07",
+    "birthMonthDay": "03-07"
   },
   {
     "url": "https://www.gorillasland.com/evindi.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2006-04-08",
+    "birthMonthDay": "04-08"
   },
   {
     "url": "https://www.gorillasland.com/eyare.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2022-04-20",
+    "birthMonthDay": "04-20"
   },
   {
     "url": "https://www.gorillasland.com/eyenga.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2004-07-18",
+    "birthMonthDay": "07-18"
   },
   {
     "url": "https://www.gorillasland.com/fabumi.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2015-05-13",
+    "birthMonthDay": "05-13"
   },
   {
     "url": "https://www.gorillasland.com/faddama.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1983-02-02",
+    "birthMonthDay": "02-02"
   },
   {
     "url": "https://www.gorillasland.com/fang.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1975-09-24",
+    "birthMonthDay": "09-24"
   },
   {
     "url": "https://www.gorillasland.com/faraja.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2011-03-12",
+    "birthMonthDay": "03-12"
   },
   {
     "url": "https://www.gorillasland.com/fataki.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2003-05-24",
+    "birthMonthDay": "05-24"
   },
   {
     "url": "https://www.gorillasland.com/fatima.php",
@@ -3443,8 +3443,8 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/faustina.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1994-03-21",
+    "birthMonthDay": "03-21"
   },
   {
     "url": "https://www.gorillasland.com/femelle.php",
@@ -3455,32 +3455,32 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/fikiri.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2019-06-06",
+    "birthMonthDay": "06-06"
   },
   {
     "url": "https://www.gorillasland.com/flint.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2014-09-03",
+    "birthMonthDay": "09-03"
   },
   {
     "url": "https://www.gorillasland.com/fossey-a.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1986-08-13",
+    "birthMonthDay": "08-13"
   },
   {
     "url": "https://www.gorillasland.com/fossey.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1999-10-16",
+    "birthMonthDay": "10-16"
   },
   {
     "url": "https://www.gorillasland.com/foufou.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1992-11-10",
+    "birthMonthDay": "11-10"
   },
   {
     "url": "https://www.gorillasland.com/founa.php",
@@ -3497,32 +3497,32 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/fra-15-02.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2015-09-15",
+    "birthMonthDay": "09-15"
   },
   {
     "url": "https://www.gorillasland.com/fra-17-01.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2017-03-01",
+    "birthMonthDay": "03-01"
   },
   {
     "url": "https://www.gorillasland.com/frala.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1981-06-20",
+    "birthMonthDay": "06-20"
   },
   {
     "url": "https://www.gorillasland.com/fran.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1996-11-07",
+    "birthMonthDay": "11-07"
   },
   {
     "url": "https://www.gorillasland.com/frank.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2008-09-04",
+    "birthMonthDay": "09-04"
   },
   {
     "url": "https://www.gorillasland.com/fritz.php",
@@ -3533,20 +3533,20 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/fubu.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2003-10-13",
+    "birthMonthDay": "10-13"
   },
   {
     "url": "https://www.gorillasland.com/fuzu.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2007-12-08",
+    "birthMonthDay": "12-08"
   },
   {
     "url": "https://www.gorillasland.com/g-anne.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1979-06-08",
+    "birthMonthDay": "06-08"
   },
   {
     "url": "https://www.gorillasland.com/gadi.php",
@@ -3557,14 +3557,14 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/gaia-pr.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2024-04-12",
+    "birthMonthDay": "04-12"
   },
   {
     "url": "https://www.gorillasland.com/gaia.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2006-08-10",
+    "birthMonthDay": "08-10"
   },
   {
     "url": "https://www.gorillasland.com/gaidi.php",
@@ -3575,8 +3575,8 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/gaika.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2014-03-15",
+    "birthMonthDay": "03-15"
   },
   {
     "url": "https://www.gorillasland.com/gaja.php",
@@ -3587,56 +3587,56 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/gana.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1997-01-18",
+    "birthMonthDay": "01-18"
   },
   {
     "url": "https://www.gorillasland.com/gasira.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2010-03-04",
+    "birthMonthDay": "03-04"
   },
   {
     "url": "https://www.gorillasland.com/gaya.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2010-12-09",
+    "birthMonthDay": "12-09"
   },
   {
     "url": "https://www.gorillasland.com/genki.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1986-06-24",
+    "birthMonthDay": "06-24"
   },
   {
     "url": "https://www.gorillasland.com/gentaro.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2011-12-21",
+    "birthMonthDay": "12-21"
   },
   {
     "url": "https://www.gorillasland.com/george-a.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2015-02-06",
+    "birthMonthDay": "02-06"
   },
   {
     "url": "https://www.gorillasland.com/georgia.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2020-07-06",
+    "birthMonthDay": "07-06"
   },
   {
     "url": "https://www.gorillasland.com/gernot.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2015-11-25",
+    "birthMonthDay": "11-25"
   },
   {
     "url": "https://www.gorillasland.com/ghubari.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2000-04-29",
+    "birthMonthDay": "04-29"
   },
   {
     "url": "https://www.gorillasland.com/gigi.php",
@@ -3647,68 +3647,68 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/gina.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1982-05-26",
+    "birthMonthDay": "05-26"
   },
   {
     "url": "https://www.gorillasland.com/gincko.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2001-09-17",
+    "birthMonthDay": "09-17"
   },
   {
     "url": "https://www.gorillasland.com/gino.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1980-12-30",
+    "birthMonthDay": "12-30"
   },
   {
     "url": "https://www.gorillasland.com/giv1801.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2018-01-14",
+    "birthMonthDay": "01-14"
   },
   {
     "url": "https://www.gorillasland.com/giv1902.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2019-09-20",
+    "birthMonthDay": "09-20"
   },
   {
     "url": "https://www.gorillasland.com/gladys-stones.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2013-01-29",
+    "birthMonthDay": "01-29"
   },
   {
     "url": "https://www.gorillasland.com/golo.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1980-09-27",
+    "birthMonthDay": "09-27"
   },
   {
     "url": "https://www.gorillasland.com/goma-a.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1991-03-31",
+    "birthMonthDay": "03-31"
   },
   {
     "url": "https://www.gorillasland.com/goma.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1959-09-23",
+    "birthMonthDay": "09-23"
   },
   {
     "url": "https://www.gorillasland.com/gorgo.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1981-06-28",
+    "birthMonthDay": "06-28"
   },
   {
     "url": "https://www.gorillasland.com/gori-inuyama.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1973-04-20",
+    "birthMonthDay": "04-20"
   },
   {
     "url": "https://www.gorillasland.com/gorilong.php",
@@ -3725,14 +3725,14 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/gorka.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1996-01-16",
+    "birthMonthDay": "01-16"
   },
   {
     "url": "https://www.gorillasland.com/grace.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1992-11-28",
+    "birthMonthDay": "11-28"
   },
   {
     "url": "https://www.gorillasland.com/gugas.php",
@@ -3743,14 +3743,14 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/gunther.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2006-07-06",
+    "birthMonthDay": "07-06"
   },
   {
     "url": "https://www.gorillasland.com/gus.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2015-12-05",
+    "birthMonthDay": "12-05"
   },
   {
     "url": "https://www.gorillasland.com/guy.php",
@@ -3761,44 +3761,44 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/gwet.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2007-12-20",
+    "birthMonthDay": "12-20"
   },
   {
     "url": "https://www.gorillasland.com/gyasi.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2002-04-29",
+    "birthMonthDay": "04-29"
   },
   {
     "url": "https://www.gorillasland.com/gypsy.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2001-08-11",
+    "birthMonthDay": "08-11"
   },
   {
     "url": "https://www.gorillasland.com/habibu.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2007-07-29",
+    "birthMonthDay": "07-29"
   },
   {
     "url": "https://www.gorillasland.com/hadari.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2009-07-27",
+    "birthMonthDay": "07-27"
   },
   {
     "url": "https://www.gorillasland.com/hai-bei.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2008-02-17",
+    "birthMonthDay": "02-17"
   },
   {
     "url": "https://www.gorillasland.com/haiba.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2007-07-15",
+    "birthMonthDay": "07-15"
   },
   {
     "url": "https://www.gorillasland.com/hakuna-matata.php",
@@ -3809,8 +3809,8 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/halima.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1997-02-17",
+    "birthMonthDay": "02-17"
   },
   {
     "url": "https://www.gorillasland.com/haloko.php",
@@ -3821,38 +3821,38 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/haoko.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1993-08-21",
+    "birthMonthDay": "08-21"
   },
   {
     "url": "https://www.gorillasland.com/harambe.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1999-05-27",
+    "birthMonthDay": "05-27"
   },
   {
     "url": "https://www.gorillasland.com/hasani-abq.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2004-11-11",
+    "birthMonthDay": "11-11"
   },
   {
     "url": "https://www.gorillasland.com/hasani-dis.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1994-10-12",
+    "birthMonthDay": "10-12"
   },
   {
     "url": "https://www.gorillasland.com/hasani-san.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2008-12-08",
+    "birthMonthDay": "12-08"
   },
   {
     "url": "https://www.gorillasland.com/hasani.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2020-08-19",
+    "birthMonthDay": "08-19"
   },
   {
     "url": "https://www.gorillasland.com/helen.php",
@@ -3863,8 +3863,8 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/henry.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2010-05-23",
+    "birthMonthDay": "05-23"
   },
   {
     "url": "https://www.gorillasland.com/hercules.php",
@@ -3875,50 +3875,50 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/hlala-kahilli.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1988-01-23",
+    "birthMonthDay": "01-23"
   },
   {
     "url": "https://www.gorillasland.com/hodari.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1995-03-21",
+    "birthMonthDay": "03-21"
   },
   {
     "url": "https://www.gorillasland.com/holli.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1989-11-10",
+    "birthMonthDay": "11-10"
   },
   {
     "url": "https://www.gorillasland.com/honi-p.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1994-09-07",
+    "birthMonthDay": "09-07"
   },
   {
     "url": "https://www.gorillasland.com/hope-dallas.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1996-01-17",
+    "birthMonthDay": "01-17"
   },
   {
     "url": "https://www.gorillasland.com/horst.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1986-10-09",
+    "birthMonthDay": "10-09"
   },
   {
     "url": "https://www.gorillasland.com/huerfanita.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1973-03-23",
+    "birthMonthDay": "03-23"
   },
   {
     "url": "https://www.gorillasland.com/husani.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1991-12-14",
+    "birthMonthDay": "12-14"
   },
   {
     "url": "https://www.gorillasland.com/hyasmina.php",
@@ -3935,74 +3935,74 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/ikunde.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1976-09-24",
+    "birthMonthDay": "09-24"
   },
   {
     "url": "https://www.gorillasland.com/imani.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1995-10-16",
+    "birthMonthDay": "10-16"
   },
   {
     "url": "https://www.gorillasland.com/imbi.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2000-08-28",
+    "birthMonthDay": "08-28"
   },
   {
     "url": "https://www.gorillasland.com/imbizo.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2005-02-11",
+    "birthMonthDay": "02-11"
   },
   {
     "url": "https://www.gorillasland.com/inaki.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1967-04-08",
+    "birthMonthDay": "04-08"
   },
   {
     "url": "https://www.gorillasland.com/indigo-bud.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2017-12-23",
+    "birthMonthDay": "12-23"
   },
   {
     "url": "https://www.gorillasland.com/indigo-dur.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2012-09-27",
+    "birthMonthDay": "09-27"
   },
   {
     "url": "https://www.gorillasland.com/inge.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1980-03-02",
+    "birthMonthDay": "03-02"
   },
   {
     "url": "https://www.gorillasland.com/inkumi.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2024-08-06",
+    "birthMonthDay": "08-06"
   },
   {
     "url": "https://www.gorillasland.com/irala.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1985-04-30",
+    "birthMonthDay": "04-30"
   },
   {
     "url": "https://www.gorillasland.com/iriki.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2011-01-10",
+    "birthMonthDay": "01-10"
   },
   {
     "url": "https://www.gorillasland.com/iringa.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1998-01-31",
+    "birthMonthDay": "01-31"
   },
   {
     "url": "https://www.gorillasland.com/iris.php",
@@ -4025,50 +4025,50 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/ivindo-la-val.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2017-09-25",
+    "birthMonthDay": "09-25"
   },
   {
     "url": "https://www.gorillasland.com/ivo.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1988-01-29",
+    "birthMonthDay": "01-29"
   },
   {
     "url": "https://www.gorillasland.com/iyari.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1998-11-09",
+    "birthMonthDay": "11-09"
   },
   {
     "url": "https://www.gorillasland.com/jabali.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2004-05-29",
+    "birthMonthDay": "05-29"
   },
   {
     "url": "https://www.gorillasland.com/jabali2380.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2020-10-31",
+    "birthMonthDay": "10-31"
   },
   {
     "url": "https://www.gorillasland.com/jabari-a.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2012-12-22",
+    "birthMonthDay": "12-22"
   },
   {
     "url": "https://www.gorillasland.com/jabari-schmi.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2024-07-14",
+    "birthMonthDay": "07-14"
   },
   {
     "url": "https://www.gorillasland.com/jabari.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1997-11-04",
+    "birthMonthDay": "11-04"
   },
   {
     "url": "https://www.gorillasland.com/jackie-a.php",
@@ -4079,8 +4079,8 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/jackie.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1990-06-03",
+    "birthMonthDay": "06-03"
   },
   {
     "url": "https://www.gorillasland.com/jade.php",
@@ -4091,80 +4091,80 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/jah.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2002-07-02",
+    "birthMonthDay": "07-02"
   },
   {
     "url": "https://www.gorillasland.com/jahari-a.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2014-09-10",
+    "birthMonthDay": "09-10"
   },
   {
     "url": "https://www.gorillasland.com/jahari.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2015-02-22",
+    "birthMonthDay": "02-22"
   },
   {
     "url": "https://www.gorillasland.com/jaja.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1999-10-29",
+    "birthMonthDay": "10-29"
   },
   {
     "url": "https://www.gorillasland.com/jamani-2.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2020-04-15",
+    "birthMonthDay": "04-15"
   },
   {
     "url": "https://www.gorillasland.com/jamani.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1999-11-12",
+    "birthMonthDay": "11-12"
   },
   {
     "url": "https://www.gorillasland.com/jambo.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1993-11-18",
+    "birthMonthDay": "11-18"
   },
   {
     "url": "https://www.gorillasland.com/jameela.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2024-01-05",
+    "birthMonthDay": "01-05"
   },
   {
     "url": "https://www.gorillasland.com/jamila-a.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2013-08-29",
+    "birthMonthDay": "08-29"
   },
   {
     "url": "https://www.gorillasland.com/jamila.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2012-01-11",
+    "birthMonthDay": "01-11"
   },
   {
     "url": "https://www.gorillasland.com/jasiri-a.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1998-06-21",
+    "birthMonthDay": "06-21"
   },
   {
     "url": "https://www.gorillasland.com/jawara.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1998-02-08",
+    "birthMonthDay": "02-08"
   },
   {
     "url": "https://www.gorillasland.com/jelani.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1997-01-06",
+    "birthMonthDay": "01-06"
   },
   {
     "url": "https://www.gorillasland.com/jeppe.php",
@@ -4175,56 +4175,56 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/jessica.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1980-10-01",
+    "birthMonthDay": "10-01"
   },
   {
     "url": "https://www.gorillasland.com/jim.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1987-08-01",
+    "birthMonthDay": "08-01"
   },
   {
     "url": "https://www.gorillasland.com/jimmy-jr.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1979-07-08",
+    "birthMonthDay": "07-08"
   },
   {
     "url": "https://www.gorillasland.com/jitu.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1983-10-15",
+    "birthMonthDay": "10-15"
   },
   {
     "url": "https://www.gorillasland.com/jj-col.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2016-09-28",
+    "birthMonthDay": "09-28"
   },
   {
     "url": "https://www.gorillasland.com/jo-ray-k.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1977-11-02",
+    "birthMonthDay": "11-02"
   },
   {
     "url": "https://www.gorillasland.com/joanne.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2014-03-12",
+    "birthMonthDay": "03-12"
   },
   {
     "url": "https://www.gorillasland.com/joas.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1989-07-06",
+    "birthMonthDay": "07-06"
   },
   {
     "url": "https://www.gorillasland.com/jock.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1983-05-31",
+    "birthMonthDay": "05-31"
   },
   {
     "url": "https://www.gorillasland.com/joe-lumumba.php",
@@ -4235,38 +4235,38 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/johari-mel.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2000-04-26",
+    "birthMonthDay": "04-26"
   },
   {
     "url": "https://www.gorillasland.com/johari-tor.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2001-05-12",
+    "birthMonthDay": "05-12"
   },
   {
     "url": "https://www.gorillasland.com/johari-wcs.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2005-09-08",
+    "birthMonthDay": "09-08"
   },
   {
     "url": "https://www.gorillasland.com/jojo.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1980-04-30",
+    "birthMonthDay": "04-30"
   },
   {
     "url": "https://www.gorillasland.com/jomo.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1991-07-18",
+    "birthMonthDay": "07-18"
   },
   {
     "url": "https://www.gorillasland.com/jontu-b.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1997-01-27",
+    "birthMonthDay": "01-27"
   },
   {
     "url": "https://www.gorillasland.com/josephine-tor.php",
@@ -4277,32 +4277,32 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/joshi.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2007-08-13",
+    "birthMonthDay": "08-13"
   },
   {
     "url": "https://www.gorillasland.com/jouki.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2011-01-31",
+    "birthMonthDay": "01-31"
   },
   {
     "url": "https://www.gorillasland.com/juba.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2002-01-06",
+    "birthMonthDay": "01-06"
   },
   {
     "url": "https://www.gorillasland.com/jubi.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1990-11-06",
+    "birthMonthDay": "11-06"
   },
   {
     "url": "https://www.gorillasland.com/juju-a.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1980-10-26",
+    "birthMonthDay": "10-26"
   },
   {
     "url": "https://www.gorillasland.com/juju.php",
@@ -4325,8 +4325,8 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/julia-b.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1980-07-06",
+    "birthMonthDay": "07-06"
   },
   {
     "url": "https://www.gorillasland.com/julia.php",
@@ -4337,44 +4337,44 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/juma.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1981-12-03",
+    "birthMonthDay": "12-03"
   },
   {
     "url": "https://www.gorillasland.com/june.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2016-07-05",
+    "birthMonthDay": "07-05"
   },
   {
     "url": "https://www.gorillasland.com/junglejack.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1987-01-02",
+    "birthMonthDay": "01-02"
   },
   {
     "url": "https://www.gorillasland.com/juno.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2024-01-17",
+    "birthMonthDay": "01-17"
   },
   {
     "url": "https://www.gorillasland.com/kabale.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2011-08-15",
+    "birthMonthDay": "08-15"
   },
   {
     "url": "https://www.gorillasland.com/kabibe.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2013-07-17",
+    "birthMonthDay": "07-17"
   },
   {
     "url": "https://www.gorillasland.com/kabinda.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1982-12-10",
+    "birthMonthDay": "12-10"
   },
   {
     "url": "https://www.gorillasland.com/kaboko.php",
@@ -4385,50 +4385,50 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/kabuli.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2004-06-13",
+    "birthMonthDay": "06-13"
   },
   {
     "url": "https://www.gorillasland.com/kafale.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2023-05-18",
+    "birthMonthDay": "05-18"
   },
   {
     "url": "https://www.gorillasland.com/kaja.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1979-08-13",
+    "birthMonthDay": "08-13"
   },
   {
     "url": "https://www.gorillasland.com/kajari.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2015-01-06",
+    "birthMonthDay": "01-06"
   },
   {
     "url": "https://www.gorillasland.com/kajolu.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2009-12-08",
+    "birthMonthDay": "12-08"
   },
   {
     "url": "https://www.gorillasland.com/kakinga.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1978-12-01",
+    "birthMonthDay": "12-01"
   },
   {
     "url": "https://www.gorillasland.com/kala.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2010-12-11",
+    "birthMonthDay": "12-11"
   },
   {
     "url": "https://www.gorillasland.com/kali.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2005-10-31",
+    "birthMonthDay": "10-31"
   },
   {
     "url": "https://www.gorillasland.com/kalonge.php",
@@ -4439,20 +4439,20 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/kamara.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2015-01-17",
+    "birthMonthDay": "01-17"
   },
   {
     "url": "https://www.gorillasland.com/kamari.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2015-02-06",
+    "birthMonthDay": "02-06"
   },
   {
     "url": "https://www.gorillasland.com/kamba-a.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2004-09-01",
+    "birthMonthDay": "09-01"
   },
   {
     "url": "https://www.gorillasland.com/kamba.php",
@@ -4463,62 +4463,62 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/kambera-dupe.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1999-02-19",
+    "birthMonthDay": "02-19"
   },
   {
     "url": "https://www.gorillasland.com/kambiri.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2011-09-16",
+    "birthMonthDay": "09-16"
   },
   {
     "url": "https://www.gorillasland.com/kamilah.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1977-12-05",
+    "birthMonthDay": "12-05"
   },
   {
     "url": "https://www.gorillasland.com/kamili.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1987-06-01",
+    "birthMonthDay": "06-01"
   },
   {
     "url": "https://www.gorillasland.com/kamina.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2014-08-16",
+    "birthMonthDay": "08-16"
   },
   {
     "url": "https://www.gorillasland.com/kamoli.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2013-05-23",
+    "birthMonthDay": "05-23"
   },
   {
     "url": "https://www.gorillasland.com/kangu.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1999-08-28",
+    "birthMonthDay": "08-28"
   },
   {
     "url": "https://www.gorillasland.com/kanzi.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2015-03-14",
+    "birthMonthDay": "03-14"
   },
   {
     "url": "https://www.gorillasland.com/kashata.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1993-04-10",
+    "birthMonthDay": "04-10"
   },
   {
     "url": "https://www.gorillasland.com/kassiu.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2014-03-19",
+    "birthMonthDay": "03-19"
   },
   {
     "url": "https://www.gorillasland.com/katanga.php",
@@ -4541,62 +4541,62 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/kato.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2019-11-03",
+    "birthMonthDay": "11-03"
   },
   {
     "url": "https://www.gorillasland.com/kayin.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2016-01-10",
+    "birthMonthDay": "01-10"
   },
   {
     "url": "https://www.gorillasland.com/kazi-r.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2005-10-31",
+    "birthMonthDay": "10-31"
   },
   {
     "url": "https://www.gorillasland.com/kebara-m.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1997-01-18",
+    "birthMonthDay": "01-18"
   },
   {
     "url": "https://www.gorillasland.com/kebu.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2000-03-10",
+    "birthMonthDay": "03-10"
   },
   {
     "url": "https://www.gorillasland.com/kejana.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1991-05-10",
+    "birthMonthDay": "05-10"
   },
   {
     "url": "https://www.gorillasland.com/kekla.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1989-03-15",
+    "birthMonthDay": "03-15"
   },
   {
     "url": "https://www.gorillasland.com/kelly.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1987-04-11",
+    "birthMonthDay": "04-11"
   },
   {
     "url": "https://www.gorillasland.com/kena.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1981-07-11",
+    "birthMonthDay": "07-11"
   },
   {
     "url": "https://www.gorillasland.com/kendi.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2025-02-09",
+    "birthMonthDay": "02-09"
   },
   {
     "url": "https://www.gorillasland.com/kenta.php",
@@ -4607,8 +4607,8 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/kera.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2004-08-26",
+    "birthMonthDay": "08-26"
   },
   {
     "url": "https://www.gorillasland.com/kesha.php",
@@ -4619,176 +4619,176 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/kesho.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1999-02-16",
+    "birthMonthDay": "02-16"
   },
   {
     "url": "https://www.gorillasland.com/kgosi.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2017-01-18",
+    "birthMonthDay": "01-18"
   },
   {
     "url": "https://www.gorillasland.com/khala.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2007-06-03",
+    "birthMonthDay": "06-03"
   },
   {
     "url": "https://www.gorillasland.com/kiale.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2024-05-08",
+    "birthMonthDay": "05-08"
   },
   {
     "url": "https://www.gorillasland.com/kianga.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2016-12-04",
+    "birthMonthDay": "12-04"
   },
   {
     "url": "https://www.gorillasland.com/kiango.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2021-02-21",
+    "birthMonthDay": "02-21"
   },
   {
     "url": "https://www.gorillasland.com/kiano-2.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2024-11-27",
+    "birthMonthDay": "11-27"
   },
   {
     "url": "https://www.gorillasland.com/kiano.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2016-03-03",
+    "birthMonthDay": "03-03"
   },
   {
     "url": "https://www.gorillasland.com/kiazi-kitamu.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1998-06-09",
+    "birthMonthDay": "06-09"
   },
   {
     "url": "https://www.gorillasland.com/kibabu.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1977-05-25",
+    "birthMonthDay": "05-25"
   },
   {
     "url": "https://www.gorillasland.com/kibali.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2001-03-25",
+    "birthMonthDay": "03-25"
   },
   {
     "url": "https://www.gorillasland.com/kibao.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2016-01-20",
+    "birthMonthDay": "01-20"
   },
   {
     "url": "https://www.gorillasland.com/kibara-leipzig.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2004-01-13",
+    "birthMonthDay": "01-13"
   },
   {
     "url": "https://www.gorillasland.com/kibara.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2007-11-25",
+    "birthMonthDay": "11-25"
   },
   {
     "url": "https://www.gorillasland.com/kibi.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1992-05-24",
+    "birthMonthDay": "05-24"
   },
   {
     "url": "https://www.gorillasland.com/kibibi-bel.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2014-03-30",
+    "birthMonthDay": "03-30"
   },
   {
     "url": "https://www.gorillasland.com/kibibi.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2009-01-10",
+    "birthMonthDay": "01-10"
   },
   {
     "url": "https://www.gorillasland.com/kibo-a.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2022-01-28",
+    "birthMonthDay": "01-28"
   },
   {
     "url": "https://www.gorillasland.com/kibo.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1990-10-24",
+    "birthMonthDay": "10-24"
   },
   {
     "url": "https://www.gorillasland.com/kiburi-a.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2010-04-24",
+    "birthMonthDay": "04-24"
   },
   {
     "url": "https://www.gorillasland.com/kiburi.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2008-08-07",
+    "birthMonthDay": "08-07"
   },
   {
     "url": "https://www.gorillasland.com/kiburib.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2004-06-27",
+    "birthMonthDay": "06-27"
   },
   {
     "url": "https://www.gorillasland.com/kicho.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1997-03-25",
+    "birthMonthDay": "03-25"
   },
   {
     "url": "https://www.gorillasland.com/kidiki.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1999-02-04",
+    "birthMonthDay": "02-04"
   },
   {
     "url": "https://www.gorillasland.com/kidjoum.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1997-12-07",
+    "birthMonthDay": "12-07"
   },
   {
     "url": "https://www.gorillasland.com/kidogo-a.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1998-04-08",
+    "birthMonthDay": "04-08"
   },
   {
     "url": "https://www.gorillasland.com/kidogo-bb.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1998-04-17",
+    "birthMonthDay": "04-17"
   },
   {
     "url": "https://www.gorillasland.com/kidogo-njemba.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2015-07-16",
+    "birthMonthDay": "07-16"
   },
   {
     "url": "https://www.gorillasland.com/kidogo.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2000-11-15",
+    "birthMonthDay": "11-15"
   },
   {
     "url": "https://www.gorillasland.com/kifta.php",
@@ -4799,20 +4799,20 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/kifu.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1987-03-25",
+    "birthMonthDay": "03-25"
   },
   {
     "url": "https://www.gorillasland.com/kigali-a.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1994-05-30",
+    "birthMonthDay": "05-30"
   },
   {
     "url": "https://www.gorillasland.com/kigali.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2012-01-23",
+    "birthMonthDay": "01-23"
   },
   {
     "url": "https://www.gorillasland.com/kighoma.php",
@@ -4823,44 +4823,44 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/kihi.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1995-05-08",
+    "birthMonthDay": "05-08"
   },
   {
     "url": "https://www.gorillasland.com/kijani.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2020-02-07",
+    "birthMonthDay": "02-07"
   },
   {
     "url": "https://www.gorillasland.com/kijito.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1995-06-10",
+    "birthMonthDay": "06-10"
   },
   {
     "url": "https://www.gorillasland.com/kijivu.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1993-03-18",
+    "birthMonthDay": "03-18"
   },
   {
     "url": "https://www.gorillasland.com/kijo.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1975-04-02",
+    "birthMonthDay": "04-02"
   },
   {
     "url": "https://www.gorillasland.com/kiju.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2009-07-07",
+    "birthMonthDay": "07-07"
   },
   {
     "url": "https://www.gorillasland.com/killa-killa.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1978-12-05",
+    "birthMonthDay": "12-05"
   },
   {
     "url": "https://www.gorillasland.com/kim-a.php",
@@ -4877,62 +4877,62 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/kima-ii.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1998-08-02",
+    "birthMonthDay": "08-02"
   },
   {
     "url": "https://www.gorillasland.com/kimani-a.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2016-03-09",
+    "birthMonthDay": "03-09"
   },
   {
     "url": "https://www.gorillasland.com/kimani.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2004-11-24",
+    "birthMonthDay": "11-24"
   },
   {
     "url": "https://www.gorillasland.com/kimba.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2006-06-27",
+    "birthMonthDay": "06-27"
   },
   {
     "url": "https://www.gorillasland.com/kimbali.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2009-12-22",
+    "birthMonthDay": "12-22"
   },
   {
     "url": "https://www.gorillasland.com/kimbo.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1989-04-24",
+    "birthMonthDay": "04-24"
   },
   {
     "url": "https://www.gorillasland.com/kimo.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2017-03-22",
+    "birthMonthDay": "03-22"
   },
   {
     "url": "https://www.gorillasland.com/kimya.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2005-01-07",
+    "birthMonthDay": "01-07"
   },
   {
     "url": "https://www.gorillasland.com/kindi.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2016-03-14",
+    "birthMonthDay": "03-14"
   },
   {
     "url": "https://www.gorillasland.com/king-a.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1974-08-09",
+    "birthMonthDay": "08-09"
   },
   {
     "url": "https://www.gorillasland.com/king.php",
@@ -4943,248 +4943,248 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/kinyani.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1983-03-16",
+    "birthMonthDay": "03-16"
   },
   {
     "url": "https://www.gorillasland.com/kio.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2017-12-06",
+    "birthMonthDay": "12-06"
   },
   {
     "url": "https://www.gorillasland.com/kiojah.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2001-01-24",
+    "birthMonthDay": "01-24"
   },
   {
     "url": "https://www.gorillasland.com/kiondo.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2002-10-11",
+    "birthMonthDay": "10-11"
   },
   {
     "url": "https://www.gorillasland.com/kipenzi-mogo.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2011-01-14",
+    "birthMonthDay": "01-14"
   },
   {
     "url": "https://www.gorillasland.com/kipenzi.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2002-08-11",
+    "birthMonthDay": "08-11"
   },
   {
     "url": "https://www.gorillasland.com/kira-mos.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1995-09-25",
+    "birthMonthDay": "09-25"
   },
   {
     "url": "https://www.gorillasland.com/kira-p.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1999-08-08",
+    "birthMonthDay": "08-08"
   },
   {
     "url": "https://www.gorillasland.com/kisane.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2006-08-18",
+    "birthMonthDay": "08-18"
   },
   {
     "url": "https://www.gorillasland.com/kishi.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1988-08-03",
+    "birthMonthDay": "08-03"
   },
   {
     "url": "https://www.gorillasland.com/kishka.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1978-11-09",
+    "birthMonthDay": "11-09"
   },
   {
     "url": "https://www.gorillasland.com/kishum.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1990-01-01",
+    "birthMonthDay": "01-01"
   },
   {
     "url": "https://www.gorillasland.com/kisina.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1972-08-07",
+    "birthMonthDay": "08-07"
   },
   {
     "url": "https://www.gorillasland.com/kisiwa.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1997-05-17",
+    "birthMonthDay": "05-17"
   },
   {
     "url": "https://www.gorillasland.com/kisoro.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1989-03-14",
+    "birthMonthDay": "03-14"
   },
   {
     "url": "https://www.gorillasland.com/kissa.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2004-05-12",
+    "birthMonthDay": "05-12"
   },
   {
     "url": "https://www.gorillasland.com/kisumu.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1997-05-27",
+    "birthMonthDay": "05-27"
   },
   {
     "url": "https://www.gorillasland.com/kito.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2004-03-12",
+    "birthMonthDay": "03-12"
   },
   {
     "url": "https://www.gorillasland.com/kitoko.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2016-07-16",
+    "birthMonthDay": "07-16"
   },
   {
     "url": "https://www.gorillasland.com/kituba.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2011-03-27",
+    "birthMonthDay": "03-27"
   },
   {
     "url": "https://www.gorillasland.com/kiu.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2012-04-14",
+    "birthMonthDay": "04-14"
   },
   {
     "url": "https://www.gorillasland.com/kivu-a.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2013-01-21",
+    "birthMonthDay": "01-21"
   },
   {
     "url": "https://www.gorillasland.com/kivu-b.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1991-08-18",
+    "birthMonthDay": "08-18"
   },
   {
     "url": "https://www.gorillasland.com/kivu-c.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1978-10-29",
+    "birthMonthDay": "10-29"
   },
   {
     "url": "https://www.gorillasland.com/kivu.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2002-11-27",
+    "birthMonthDay": "11-27"
   },
   {
     "url": "https://www.gorillasland.com/kivuli.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2019-10-12",
+    "birthMonthDay": "10-12"
   },
   {
     "url": "https://www.gorillasland.com/kiwano.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2016-01-11",
+    "birthMonthDay": "01-11"
   },
   {
     "url": "https://www.gorillasland.com/kiyomasa.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2012-11-01",
+    "birthMonthDay": "11-01"
   },
   {
     "url": "https://www.gorillasland.com/kleopatra.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2018-11-13",
+    "birthMonthDay": "11-13"
   },
   {
     "url": "https://www.gorillasland.com/kofi.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2021-10-08",
+    "birthMonthDay": "10-08"
   },
   {
     "url": "https://www.gorillasland.com/koga.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1987-08-14",
+    "birthMonthDay": "08-14"
   },
   {
     "url": "https://www.gorillasland.com/kojo.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2001-11-05",
+    "birthMonthDay": "11-05"
   },
   {
     "url": "https://www.gorillasland.com/kokamo.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1988-12-20",
+    "birthMonthDay": "12-20"
   },
   {
     "url": "https://www.gorillasland.com/kol-14-01.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2014-12-02",
+    "birthMonthDay": "12-02"
   },
   {
     "url": "https://www.gorillasland.com/kolo.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1986-10-16",
+    "birthMonthDay": "10-16"
   },
   {
     "url": "https://www.gorillasland.com/komale.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2006-12-15",
+    "birthMonthDay": "12-15"
   },
   {
     "url": "https://www.gorillasland.com/komomo.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2009-11-14",
+    "birthMonthDay": "11-14"
   },
   {
     "url": "https://www.gorillasland.com/komu.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1997-04-16",
+    "birthMonthDay": "04-16"
   },
   {
     "url": "https://www.gorillasland.com/kongo-mbeli.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1998-12-31",
+    "birthMonthDay": "12-31"
   },
   {
     "url": "https://www.gorillasland.com/koola.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1995-02-21",
+    "birthMonthDay": "02-21"
   },
   {
     "url": "https://www.gorillasland.com/kouam.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2016-06-15",
+    "birthMonthDay": "06-15"
   },
   {
     "url": "https://www.gorillasland.com/kouillou.php",
@@ -5195,80 +5195,80 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/koundi.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2016-05-12",
+    "birthMonthDay": "05-12"
   },
   {
     "url": "https://www.gorillasland.com/kouni.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2001-02-15",
+    "birthMonthDay": "02-15"
   },
   {
     "url": "https://www.gorillasland.com/kouyou.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2002-06-01",
+    "birthMonthDay": "06-01"
   },
   {
     "url": "https://www.gorillasland.com/kre-13-02.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2013-10-14",
+    "birthMonthDay": "10-14"
   },
   {
     "url": "https://www.gorillasland.com/kriba.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1979-08-09",
+    "birthMonthDay": "08-09"
   },
   {
     "url": "https://www.gorillasland.com/ktembe.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1997-03-13",
+    "birthMonthDay": "03-13"
   },
   {
     "url": "https://www.gorillasland.com/kuanza.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2012-07-16",
+    "birthMonthDay": "07-16"
   },
   {
     "url": "https://www.gorillasland.com/kuchi.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1984-10-10",
+    "birthMonthDay": "10-10"
   },
   {
     "url": "https://www.gorillasland.com/kuchimba.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2002-06-29",
+    "birthMonthDay": "06-29"
   },
   {
     "url": "https://www.gorillasland.com/kudzoo.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1994-02-08",
+    "birthMonthDay": "02-08"
   },
   {
     "url": "https://www.gorillasland.com/kuimba.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2010-08-19",
+    "birthMonthDay": "08-19"
   },
   {
     "url": "https://www.gorillasland.com/kukena.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2011-09-27",
+    "birthMonthDay": "09-27"
   },
   {
     "url": "https://www.gorillasland.com/kukuma.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1989-09-29",
+    "birthMonthDay": "09-29"
   },
   {
     "url": "https://www.gorillasland.com/kumba-c.php",
@@ -5285,116 +5285,116 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/kumbi.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2022-07-22",
+    "birthMonthDay": "07-22"
   },
   {
     "url": "https://www.gorillasland.com/kumbo.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1995-05-08",
+    "birthMonthDay": "05-08"
   },
   {
     "url": "https://www.gorillasland.com/kumbuka-a.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1996-08-03",
+    "birthMonthDay": "08-03"
   },
   {
     "url": "https://www.gorillasland.com/kumbuka.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1997-11-15",
+    "birthMonthDay": "11-15"
   },
   {
     "url": "https://www.gorillasland.com/kumi-a.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2004-08-10",
+    "birthMonthDay": "08-10"
   },
   {
     "url": "https://www.gorillasland.com/kumi.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1998-06-30",
+    "birthMonthDay": "06-30"
   },
   {
     "url": "https://www.gorillasland.com/kumili.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2004-01-23",
+    "birthMonthDay": "01-23"
   },
   {
     "url": "https://www.gorillasland.com/kush.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1992-11-24",
+    "birthMonthDay": "11-24"
   },
   {
     "url": "https://www.gorillasland.com/kvabena.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2013-02-05",
+    "birthMonthDay": "02-05"
   },
   {
     "url": "https://www.gorillasland.com/kwame-a.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1999-11-20",
+    "birthMonthDay": "11-20"
   },
   {
     "url": "https://www.gorillasland.com/kwame-c.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2023-07-13",
+    "birthMonthDay": "07-13"
   },
   {
     "url": "https://www.gorillasland.com/kwame.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2011-06-04",
+    "birthMonthDay": "06-04"
   },
   {
     "url": "https://www.gorillasland.com/kwanza-a.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1989-03-01",
+    "birthMonthDay": "03-01"
   },
   {
     "url": "https://www.gorillasland.com/kwanza.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2002-04-01",
+    "birthMonthDay": "04-01"
   },
   {
     "url": "https://www.gorillasland.com/kwashi.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1982-05-16",
+    "birthMonthDay": "05-16"
   },
   {
     "url": "https://www.gorillasland.com/kweli.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1983-11-01",
+    "birthMonthDay": "11-01"
   },
   {
     "url": "https://www.gorillasland.com/kwimba.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1997-02-14",
+    "birthMonthDay": "02-14"
   },
   {
     "url": "https://www.gorillasland.com/kwisha.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1992-12-19",
+    "birthMonthDay": "12-19"
   },
   {
     "url": "https://www.gorillasland.com/kwizera-m.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1988-03-11",
+    "birthMonthDay": "03-11"
   },
   {
     "url": "https://www.gorillasland.com/kyasa.php",
@@ -5417,32 +5417,32 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/lash.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1976-12-25",
+    "birthMonthDay": "12-25"
   },
   {
     "url": "https://www.gorillasland.com/lashjunior.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2021-04-09",
+    "birthMonthDay": "04-09"
   },
   {
     "url": "https://www.gorillasland.com/layla.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1998-04-29",
+    "birthMonthDay": "04-29"
   },
   {
     "url": "https://www.gorillasland.com/lemboe.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2008-09-03",
+    "birthMonthDay": "09-03"
   },
   {
     "url": "https://www.gorillasland.com/lena-a.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1982-08-25",
+    "birthMonthDay": "08-25"
   },
   {
     "url": "https://www.gorillasland.com/lena.php",
@@ -5453,68 +5453,68 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/lengai.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2003-04-19",
+    "birthMonthDay": "04-19"
   },
   {
     "url": "https://www.gorillasland.com/leom.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2013-02-14",
+    "birthMonthDay": "02-14"
   },
   {
     "url": "https://www.gorillasland.com/leon.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1998-10-31",
+    "birthMonthDay": "10-31"
   },
   {
     "url": "https://www.gorillasland.com/leslie.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2016-10-19",
+    "birthMonthDay": "10-19"
   },
   {
     "url": "https://www.gorillasland.com/lia.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1978-07-09",
+    "birthMonthDay": "07-09"
   },
   {
     "url": "https://www.gorillasland.com/liesel.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1977-04-15",
+    "birthMonthDay": "04-15"
   },
   {
     "url": "https://www.gorillasland.com/likalay-lulu.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2001-12-14",
+    "birthMonthDay": "12-14"
   },
   {
     "url": "https://www.gorillasland.com/lilly.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2010-02-19",
+    "birthMonthDay": "02-19"
   },
   {
     "url": "https://www.gorillasland.com/lily-rose.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2000-12-19",
+    "birthMonthDay": "12-19"
   },
   {
     "url": "https://www.gorillasland.com/lina.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1973-01-10",
+    "birthMonthDay": "01-10"
   },
   {
     "url": "https://www.gorillasland.com/liora.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2012-11-11",
+    "birthMonthDay": "11-11"
   },
   {
     "url": "https://www.gorillasland.com/lis-12-01.php",
@@ -5525,20 +5525,20 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/lisha.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2008-12-12",
+    "birthMonthDay": "12-12"
   },
   {
     "url": "https://www.gorillasland.com/little-joe-st.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1998-01-09",
+    "birthMonthDay": "01-09"
   },
   {
     "url": "https://www.gorillasland.com/loango.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2004-12-23",
+    "birthMonthDay": "12-23"
   },
   {
     "url": "https://www.gorillasland.com/lobo.php",
@@ -5549,14 +5549,14 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/lomako.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2004-11-19",
+    "birthMonthDay": "11-19"
   },
   {
     "url": "https://www.gorillasland.com/lomela.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1972-05-14",
+    "birthMonthDay": "05-14"
   },
   {
     "url": "https://www.gorillasland.com/lomie.php",
@@ -5567,32 +5567,32 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/lope.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2013-01-03",
+    "birthMonthDay": "01-03"
   },
   {
     "url": "https://www.gorillasland.com/lora.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1977-09-21",
+    "birthMonthDay": "09-21"
   },
   {
     "url": "https://www.gorillasland.com/lou-lou.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2004-08-06",
+    "birthMonthDay": "08-06"
   },
   {
     "url": "https://www.gorillasland.com/louie.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2004-04-09",
+    "birthMonthDay": "04-09"
   },
   {
     "url": "https://www.gorillasland.com/louis.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1999-05-12",
+    "birthMonthDay": "05-12"
   },
   {
     "url": "https://www.gorillasland.com/louna-pl.php",
@@ -5603,8 +5603,8 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/louna.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2006-07-13",
+    "birthMonthDay": "07-13"
   },
   {
     "url": "https://www.gorillasland.com/lubutu.php",
@@ -5615,14 +5615,14 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/luena.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1996-12-25",
+    "birthMonthDay": "12-25"
   },
   {
     "url": "https://www.gorillasland.com/lukas.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1982-12-10",
+    "birthMonthDay": "12-10"
   },
   {
     "url": "https://www.gorillasland.com/lulingu.php",
@@ -5633,80 +5633,80 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/lulu.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1999-08-22",
+    "birthMonthDay": "08-22"
   },
   {
     "url": "https://www.gorillasland.com/ma-yah.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2009-09-18",
+    "birthMonthDay": "09-18"
   },
   {
     "url": "https://www.gorillasland.com/maayabu.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1988-07-28",
+    "birthMonthDay": "07-28"
   },
   {
     "url": "https://www.gorillasland.com/machi.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1976-03-01",
+    "birthMonthDay": "03-01"
   },
   {
     "url": "https://www.gorillasland.com/machinda.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1978-01-15",
+    "birthMonthDay": "01-15"
   },
   {
     "url": "https://www.gorillasland.com/macombo-ii.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1983-10-26",
+    "birthMonthDay": "10-26"
   },
   {
     "url": "https://www.gorillasland.com/macyb-r.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2005-12-12",
+    "birthMonthDay": "12-12"
   },
   {
     "url": "https://www.gorillasland.com/madge.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1981-06-17",
+    "birthMonthDay": "06-17"
   },
   {
     "url": "https://www.gorillasland.com/madiba.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2013-10-24",
+    "birthMonthDay": "10-24"
   },
   {
     "url": "https://www.gorillasland.com/madini-thamani.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1996-06-20",
+    "birthMonthDay": "06-20"
   },
   {
     "url": "https://www.gorillasland.com/mah-mah.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2002-12-06",
+    "birthMonthDay": "12-06"
   },
   {
     "url": "https://www.gorillasland.com/mahali.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2008-08-18",
+    "birthMonthDay": "08-18"
   },
   {
     "url": "https://www.gorillasland.com/mahiri.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2013-08-13",
+    "birthMonthDay": "08-13"
   },
   {
     "url": "https://www.gorillasland.com/maile.php",
@@ -5723,98 +5723,98 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/maisha.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2008-02-27",
+    "birthMonthDay": "02-27"
   },
   {
     "url": "https://www.gorillasland.com/maji-maji.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1991-08-06",
+    "birthMonthDay": "08-06"
   },
   {
     "url": "https://www.gorillasland.com/maka.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1995-06-20",
+    "birthMonthDay": "06-20"
   },
   {
     "url": "https://www.gorillasland.com/makala.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2015-07-17",
+    "birthMonthDay": "07-17"
   },
   {
     "url": "https://www.gorillasland.com/makari-bla.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2017-09-05",
+    "birthMonthDay": "09-05"
   },
   {
     "url": "https://www.gorillasland.com/makari2.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1987-07-12",
+    "birthMonthDay": "07-12"
   },
   {
     "url": "https://www.gorillasland.com/makeba.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2016-12-07",
+    "birthMonthDay": "12-07"
   },
   {
     "url": "https://www.gorillasland.com/makena.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2004-03-15",
+    "birthMonthDay": "03-15"
   },
   {
     "url": "https://www.gorillasland.com/makena2.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1999-01-24",
+    "birthMonthDay": "01-24"
   },
   {
     "url": "https://www.gorillasland.com/makokou.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1985-07-09",
+    "birthMonthDay": "07-09"
   },
   {
     "url": "https://www.gorillasland.com/makongo.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2024-04-09",
+    "birthMonthDay": "04-09"
   },
   {
     "url": "https://www.gorillasland.com/makoua.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2004-06-11",
+    "birthMonthDay": "06-11"
   },
   {
     "url": "https://www.gorillasland.com/makula.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1990-02-10",
+    "birthMonthDay": "02-10"
   },
   {
     "url": "https://www.gorillasland.com/malabo.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1991-11-28",
+    "birthMonthDay": "11-28"
   },
   {
     "url": "https://www.gorillasland.com/malkia.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2020-04-16",
+    "birthMonthDay": "04-16"
   },
   {
     "url": "https://www.gorillasland.com/mambele.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1999-02-21",
+    "birthMonthDay": "02-21"
   },
   {
     "url": "https://www.gorillasland.com/mambi-a.php",
@@ -5825,26 +5825,26 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/mambie-val.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1991-03-24",
+    "birthMonthDay": "03-24"
   },
   {
     "url": "https://www.gorillasland.com/mamitu.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1977-12-21",
+    "birthMonthDay": "12-21"
   },
   {
     "url": "https://www.gorillasland.com/mandaazi.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2002-07-27",
+    "birthMonthDay": "07-27"
   },
   {
     "url": "https://www.gorillasland.com/mandara.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1982-04-05",
+    "birthMonthDay": "04-05"
   },
   {
     "url": "https://www.gorillasland.com/mandji.php",
@@ -5855,14 +5855,14 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/mapasa.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2007-10-15",
+    "birthMonthDay": "10-15"
   },
   {
     "url": "https://www.gorillasland.com/mapema.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1996-04-30",
+    "birthMonthDay": "04-30"
   },
   {
     "url": "https://www.gorillasland.com/mapendo.php",
@@ -5873,74 +5873,74 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/mapenzi.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2010-04-14",
+    "birthMonthDay": "04-14"
   },
   {
     "url": "https://www.gorillasland.com/mara.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1995-08-13",
+    "birthMonthDay": "08-13"
   },
   {
     "url": "https://www.gorillasland.com/marcus.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1985-09-28",
+    "birthMonthDay": "09-28"
   },
   {
     "url": "https://www.gorillasland.com/margaret.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2007-12-18",
+    "birthMonthDay": "12-18"
   },
   {
     "url": "https://www.gorillasland.com/martha.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1989-11-01",
+    "birthMonthDay": "11-01"
   },
   {
     "url": "https://www.gorillasland.com/mary-zwo.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2007-05-18",
+    "birthMonthDay": "05-18"
   },
   {
     "url": "https://www.gorillasland.com/mary.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1987-11-04",
+    "birthMonthDay": "11-04"
   },
   {
     "url": "https://www.gorillasland.com/masani.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2015-05-27",
+    "birthMonthDay": "05-27"
   },
   {
     "url": "https://www.gorillasland.com/mashika.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2022-08-10",
+    "birthMonthDay": "08-10"
   },
   {
     "url": "https://www.gorillasland.com/mashudu.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2001-07-13",
+    "birthMonthDay": "07-13"
   },
   {
     "url": "https://www.gorillasland.com/masika2.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2015-05-25",
+    "birthMonthDay": "05-25"
   },
   {
     "url": "https://www.gorillasland.com/masindi.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2006-02-01",
+    "birthMonthDay": "02-01"
   },
   {
     "url": "https://www.gorillasland.com/massa.php",
@@ -5951,8 +5951,8 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/mata-hari.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1974-08-16",
+    "birthMonthDay": "08-16"
   },
   {
     "url": "https://www.gorillasland.com/matabishi.php",
@@ -5963,158 +5963,158 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/matadi-abq.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1982-02-09",
+    "birthMonthDay": "02-09"
   },
   {
     "url": "https://www.gorillasland.com/matadi.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2003-03-25",
+    "birthMonthDay": "03-25"
   },
   {
     "url": "https://www.gorillasland.com/mataki.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1988-10-21",
+    "birthMonthDay": "10-21"
   },
   {
     "url": "https://www.gorillasland.com/matibi.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1988-03-06",
+    "birthMonthDay": "03-06"
   },
   {
     "url": "https://www.gorillasland.com/matumaini.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1993-06-11",
+    "birthMonthDay": "06-11"
   },
   {
     "url": "https://www.gorillasland.com/mawenzi.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2009-03-08",
+    "birthMonthDay": "03-08"
   },
   {
     "url": "https://www.gorillasland.com/mawete.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2011-11-20",
+    "birthMonthDay": "11-20"
   },
   {
     "url": "https://www.gorillasland.com/mawimbi.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2012-07-12",
+    "birthMonthDay": "07-12"
   },
   {
     "url": "https://www.gorillasland.com/mawingo.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2001-04-06",
+    "birthMonthDay": "04-06"
   },
   {
     "url": "https://www.gorillasland.com/mayani.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2001-12-06",
+    "birthMonthDay": "12-06"
   },
   {
     "url": "https://www.gorillasland.com/mayele.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2013-03-21",
+    "birthMonthDay": "03-21"
   },
   {
     "url": "https://www.gorillasland.com/mayombe.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2007-10-21",
+    "birthMonthDay": "10-21"
   },
   {
     "url": "https://www.gorillasland.com/mayumba.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2011-04-25",
+    "birthMonthDay": "04-25"
   },
   {
     "url": "https://www.gorillasland.com/mayumi.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2012-03-11",
+    "birthMonthDay": "03-11"
   },
   {
     "url": "https://www.gorillasland.com/mbeli-tar.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2003-02-05",
+    "birthMonthDay": "02-05"
   },
   {
     "url": "https://www.gorillasland.com/mbeli-val.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2017-07-21",
+    "birthMonthDay": "07-21"
   },
   {
     "url": "https://www.gorillasland.com/mbeli.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2002-05-27",
+    "birthMonthDay": "05-27"
   },
   {
     "url": "https://www.gorillasland.com/mbewe.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1997-11-16",
+    "birthMonthDay": "11-16"
   },
   {
     "url": "https://www.gorillasland.com/mbini.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2015-05-01",
+    "birthMonthDay": "05-01"
   },
   {
     "url": "https://www.gorillasland.com/mbizi.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1993-08-14",
+    "birthMonthDay": "08-14"
   },
   {
     "url": "https://www.gorillasland.com/mbula.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2009-03-10",
+    "birthMonthDay": "03-10"
   },
   {
     "url": "https://www.gorillasland.com/mbundi.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1993-01-12",
+    "birthMonthDay": "01-12"
   },
   {
     "url": "https://www.gorillasland.com/mdomo.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2006-07-09",
+    "birthMonthDay": "07-09"
   },
   {
     "url": "https://www.gorillasland.com/megan.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2005-06-17",
+    "birthMonthDay": "06-17"
   },
   {
     "url": "https://www.gorillasland.com/meisie.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2010-05-07",
+    "birthMonthDay": "05-07"
   },
   {
     "url": "https://www.gorillasland.com/melima.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1996-03-26",
+    "birthMonthDay": "03-26"
   },
   {
     "url": "https://www.gorillasland.com/memba.php",
@@ -6125,14 +6125,14 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/merry-leigh.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2011-05-09",
+    "birthMonthDay": "05-09"
   },
   {
     "url": "https://www.gorillasland.com/meru.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2004-02-04",
+    "birthMonthDay": "02-04"
   },
   {
     "url": "https://www.gorillasland.com/messy.php",
@@ -6143,50 +6143,50 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/mfugaji.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2009-04-10",
+    "birthMonthDay": "04-10"
   },
   {
     "url": "https://www.gorillasland.com/mia-moja.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1989-03-18",
+    "birthMonthDay": "03-18"
   },
   {
     "url": "https://www.gorillasland.com/mijadala-aka-mija.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2016-09-18",
+    "birthMonthDay": "09-18"
   },
   {
     "url": "https://www.gorillasland.com/mike-houston.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1991-12-24",
+    "birthMonthDay": "12-24"
   },
   {
     "url": "https://www.gorillasland.com/mike.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1989-08-30",
+    "birthMonthDay": "08-30"
   },
   {
     "url": "https://www.gorillasland.com/milele.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2012-02-26",
+    "birthMonthDay": "02-26"
   },
   {
     "url": "https://www.gorillasland.com/miliki-bla.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1994-12-25",
+    "birthMonthDay": "12-25"
   },
   {
     "url": "https://www.gorillasland.com/miliki-kre.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2006-02-20",
+    "birthMonthDay": "02-20"
   },
   {
     "url": "https://www.gorillasland.com/mimi.php",
@@ -6197,8 +6197,8 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/minnie.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1992-10-07",
+    "birthMonthDay": "10-07"
   },
   {
     "url": "https://www.gorillasland.com/mintha.php",
@@ -6209,14 +6209,14 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/mizani-2.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2024-10-07",
+    "birthMonthDay": "10-07"
   },
   {
     "url": "https://www.gorillasland.com/mizani.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2014-04-17",
+    "birthMonthDay": "04-17"
   },
   {
     "url": "https://www.gorillasland.com/mjukuu-a.php",
@@ -6227,74 +6227,74 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/mjukuu-b.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2014-10-28",
+    "birthMonthDay": "10-28"
   },
   {
     "url": "https://www.gorillasland.com/mjukuu.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1999-01-02",
+    "birthMonthDay": "01-02"
   },
   {
     "url": "https://www.gorillasland.com/mkono.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1999-01-28",
+    "birthMonthDay": "01-28"
   },
   {
     "url": "https://www.gorillasland.com/mlinzi.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1982-12-07",
+    "birthMonthDay": "12-07"
   },
   {
     "url": "https://www.gorillasland.com/moana.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2001-10-20",
+    "birthMonthDay": "10-20"
   },
   {
     "url": "https://www.gorillasland.com/moanda.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2012-11-08",
+    "birthMonthDay": "11-08"
   },
   {
     "url": "https://www.gorillasland.com/mobali.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2015-05-19",
+    "birthMonthDay": "05-19"
   },
   {
     "url": "https://www.gorillasland.com/mobi.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2024-01-02",
+    "birthMonthDay": "01-02"
   },
   {
     "url": "https://www.gorillasland.com/moja.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2004-12-13",
+    "birthMonthDay": "12-13"
   },
   {
     "url": "https://www.gorillasland.com/mokonzi.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2015-01-19",
+    "birthMonthDay": "01-19"
   },
   {
     "url": "https://www.gorillasland.com/momo.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1982-06-03",
+    "birthMonthDay": "06-03"
   },
   {
     "url": "https://www.gorillasland.com/momoka.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2013-04-24",
+    "birthMonthDay": "04-24"
   },
   {
     "url": "https://www.gorillasland.com/momoko.php",
@@ -6311,26 +6311,26 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/mondika.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2014-08-04",
+    "birthMonthDay": "08-04"
   },
   {
     "url": "https://www.gorillasland.com/mongomo.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1986-06-28",
+    "birthMonthDay": "06-28"
   },
   {
     "url": "https://www.gorillasland.com/monifa.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1998-01-03",
+    "birthMonthDay": "01-03"
   },
   {
     "url": "https://www.gorillasland.com/monroe.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2011-06-17",
+    "birthMonthDay": "06-17"
   },
   {
     "url": "https://www.gorillasland.com/monta.php",
@@ -6341,56 +6341,56 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/monza.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2007-09-02",
+    "birthMonthDay": "09-02"
   },
   {
     "url": "https://www.gorillasland.com/moos.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2020-07-15",
+    "birthMonthDay": "07-15"
   },
   {
     "url": "https://www.gorillasland.com/moseka.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1984-01-09",
+    "birthMonthDay": "01-09"
   },
   {
     "url": "https://www.gorillasland.com/mosi-b.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2006-10-10",
+    "birthMonthDay": "10-10"
   },
   {
     "url": "https://www.gorillasland.com/mosi.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2010-02-10",
+    "birthMonthDay": "02-10"
   },
   {
     "url": "https://www.gorillasland.com/mosuba.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1983-10-26",
+    "birthMonthDay": "10-26"
   },
   {
     "url": "https://www.gorillasland.com/motaba.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1983-12-23",
+    "birthMonthDay": "12-23"
   },
   {
     "url": "https://www.gorillasland.com/motema-m.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2025-02-04",
+    "birthMonthDay": "02-04"
   },
   {
     "url": "https://www.gorillasland.com/motube-p.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1985-01-23",
+    "birthMonthDay": "01-23"
   },
   {
     "url": "https://www.gorillasland.com/mouila-a.php",
@@ -6407,56 +6407,56 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/moyo-r.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2018-10-17",
+    "birthMonthDay": "10-17"
   },
   {
     "url": "https://www.gorillasland.com/moyo.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2020-04-23",
+    "birthMonthDay": "04-23"
   },
   {
     "url": "https://www.gorillasland.com/mpassa.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2003-11-23",
+    "birthMonthDay": "11-23"
   },
   {
     "url": "https://www.gorillasland.com/mpenzi.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1985-07-09",
+    "birthMonthDay": "07-09"
   },
   {
     "url": "https://www.gorillasland.com/mshindi.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1987-10-17",
+    "birthMonthDay": "10-17"
   },
   {
     "url": "https://www.gorillasland.com/mtonge.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1999-02-23",
+    "birthMonthDay": "02-23"
   },
   {
     "url": "https://www.gorillasland.com/muenda.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2016-06-03",
+    "birthMonthDay": "06-03"
   },
   {
     "url": "https://www.gorillasland.com/muke.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1981-09-05",
+    "birthMonthDay": "09-05"
   },
   {
     "url": "https://www.gorillasland.com/mukobe.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2015-09-04",
+    "birthMonthDay": "09-04"
   },
   {
     "url": "https://www.gorillasland.com/mumba-a.php",
@@ -6467,8 +6467,8 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/mumba.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1987-07-27",
+    "birthMonthDay": "07-27"
   },
   {
     "url": "https://www.gorillasland.com/mumbah.php",
@@ -6479,14 +6479,14 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/mumbou.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2010-02-06",
+    "birthMonthDay": "02-06"
   },
   {
     "url": "https://www.gorillasland.com/muna.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1989-03-06",
+    "birthMonthDay": "03-06"
   },
   {
     "url": "https://www.gorillasland.com/muni-a.php",
@@ -6503,14 +6503,14 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/muni.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2000-12-19",
+    "birthMonthDay": "12-19"
   },
   {
     "url": "https://www.gorillasland.com/musashi.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1980-07-04",
+    "birthMonthDay": "07-04"
   },
   {
     "url": "https://www.gorillasland.com/mushie.php",
@@ -6521,8 +6521,8 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/mutasi.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1994-06-12",
+    "birthMonthDay": "06-12"
   },
   {
     "url": "https://www.gorillasland.com/muyisa.php",
@@ -6533,44 +6533,44 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/mwamba.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2017-09-01",
+    "birthMonthDay": "09-01"
   },
   {
     "url": "https://www.gorillasland.com/mwambe.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2006-08-28",
+    "birthMonthDay": "08-28"
   },
   {
     "url": "https://www.gorillasland.com/mwana.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2012-02-23",
+    "birthMonthDay": "02-23"
   },
   {
     "url": "https://www.gorillasland.com/mwelu-m.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1986-07-16",
+    "birthMonthDay": "07-16"
   },
   {
     "url": "https://www.gorillasland.com/mzungu.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2011-06-26",
+    "birthMonthDay": "06-26"
   },
   {
     "url": "https://www.gorillasland.com/nache.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1980-10-07",
+    "birthMonthDay": "10-07"
   },
   {
     "url": "https://www.gorillasland.com/nadami.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2010-09-29",
+    "birthMonthDay": "09-29"
   },
   {
     "url": "https://www.gorillasland.com/nadia.php",
@@ -6581,44 +6581,44 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/nafi.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2013-02-08",
+    "birthMonthDay": "02-08"
   },
   {
     "url": "https://www.gorillasland.com/naika.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2005-02-01",
+    "birthMonthDay": "02-01"
   },
   {
     "url": "https://www.gorillasland.com/nakou.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2009-11-04",
+    "birthMonthDay": "11-04"
   },
   {
     "url": "https://www.gorillasland.com/naku.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2000-10-08",
+    "birthMonthDay": "10-08"
   },
   {
     "url": "https://www.gorillasland.com/nala.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2015-01-18",
+    "birthMonthDay": "01-18"
   },
   {
     "url": "https://www.gorillasland.com/nalani.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2006-04-09",
+    "birthMonthDay": "04-09"
   },
   {
     "url": "https://www.gorillasland.com/namoki.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2005-05-17",
+    "birthMonthDay": "05-17"
   },
   {
     "url": "https://www.gorillasland.com/nana.php",
@@ -6635,38 +6635,38 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/nasibu-a.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1996-08-21",
+    "birthMonthDay": "08-21"
   },
   {
     "url": "https://www.gorillasland.com/nasibu.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2007-04-01",
+    "birthMonthDay": "04-01"
   },
   {
     "url": "https://www.gorillasland.com/nassir.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2009-09-02",
+    "birthMonthDay": "09-02"
   },
   {
     "url": "https://www.gorillasland.com/nayembi.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2012-11-16",
+    "birthMonthDay": "11-16"
   },
   {
     "url": "https://www.gorillasland.com/ndatwa.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1989-10-05",
+    "birthMonthDay": "10-05"
   },
   {
     "url": "https://www.gorillasland.com/ndekasi.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2007-04-17",
+    "birthMonthDay": "04-17"
   },
   {
     "url": "https://www.gorillasland.com/ndengue.php",
@@ -6677,14 +6677,14 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/ndeze.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2007-02-17",
+    "birthMonthDay": "02-17"
   },
   {
     "url": "https://www.gorillasland.com/ndjia.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1994-12-31",
+    "birthMonthDay": "12-31"
   },
   {
     "url": "https://www.gorillasland.com/ndjingala.php",
@@ -6695,32 +6695,32 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/ndowe.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2003-09-22",
+    "birthMonthDay": "09-22"
   },
   {
     "url": "https://www.gorillasland.com/ndume.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1981-10-10",
+    "birthMonthDay": "10-10"
   },
   {
     "url": "https://www.gorillasland.com/neema.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1987-07-01",
+    "birthMonthDay": "07-01"
   },
   {
     "url": "https://www.gorillasland.com/nekon.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1982-10-08",
+    "birthMonthDay": "10-08"
   },
   {
     "url": "https://www.gorillasland.com/nemsi.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2001-08-23",
+    "birthMonthDay": "08-23"
   },
   {
     "url": "https://www.gorillasland.com/nene.php",
@@ -6731,56 +6731,56 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/ngambe.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2000-09-23",
+    "birthMonthDay": "09-23"
   },
   {
     "url": "https://www.gorillasland.com/ngayla.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1993-05-09",
+    "birthMonthDay": "05-09"
   },
   {
     "url": "https://www.gorillasland.com/ngola.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1977-06-21",
+    "birthMonthDay": "06-21"
   },
   {
     "url": "https://www.gorillasland.com/ngoma.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1994-08-08",
+    "birthMonthDay": "08-08"
   },
   {
     "url": "https://www.gorillasland.com/ngoro.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2006-08-25",
+    "birthMonthDay": "08-25"
   },
   {
     "url": "https://www.gorillasland.com/ngozi.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1998-03-18",
+    "birthMonthDay": "03-18"
   },
   {
     "url": "https://www.gorillasland.com/ngumbi.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2012-09-01",
+    "birthMonthDay": "09-01"
   },
   {
     "url": "https://www.gorillasland.com/nguvu.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2013-11-05",
+    "birthMonthDay": "11-05"
   },
   {
     "url": "https://www.gorillasland.com/nhasa.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2013-06-13",
+    "birthMonthDay": "06-13"
   },
   {
     "url": "https://www.gorillasland.com/nia-lewa.php",
@@ -6791,8 +6791,8 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/nia.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1993-12-21",
+    "birthMonthDay": "12-21"
   },
   {
     "url": "https://www.gorillasland.com/nico.php",
@@ -6815,44 +6815,44 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/nimba.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1999-01-31",
+    "birthMonthDay": "01-31"
   },
   {
     "url": "https://www.gorillasland.com/nirale.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2013-11-23",
+    "birthMonthDay": "11-23"
   },
   {
     "url": "https://www.gorillasland.com/njema.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1993-09-23",
+    "birthMonthDay": "09-23"
   },
   {
     "url": "https://www.gorillasland.com/nkato.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2013-06-13",
+    "birthMonthDay": "06-13"
   },
   {
     "url": "https://www.gorillasland.com/nkosi.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1991-09-26",
+    "birthMonthDay": "09-26"
   },
   {
     "url": "https://www.gorillasland.com/nkoumou.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2009-04-08",
+    "birthMonthDay": "04-08"
   },
   {
     "url": "https://www.gorillasland.com/nkwango.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1996-09-22",
+    "birthMonthDay": "09-22"
   },
   {
     "url": "https://www.gorillasland.com/nneka-san-fran.php",
@@ -6863,8 +6863,8 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/nneka-tor.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2014-01-10",
+    "birthMonthDay": "01-10"
   },
   {
     "url": "https://www.gorillasland.com/noel-a.php",
@@ -6875,20 +6875,20 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/noel.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1986-12-28",
+    "birthMonthDay": "12-28"
   },
   {
     "url": "https://www.gorillasland.com/nora.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2013-11-04",
+    "birthMonthDay": "11-04"
   },
   {
     "url": "https://www.gorillasland.com/nsabi.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1995-07-14",
+    "birthMonthDay": "07-14"
   },
   {
     "url": "https://www.gorillasland.com/ntabwaba.php",
@@ -6899,44 +6899,44 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/ntami.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2008-07-23",
+    "birthMonthDay": "07-23"
   },
   {
     "url": "https://www.gorillasland.com/ntondo.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1993-02-28",
+    "birthMonthDay": "02-28"
   },
   {
     "url": "https://www.gorillasland.com/ntua.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2006-06-05",
+    "birthMonthDay": "06-05"
   },
   {
     "url": "https://www.gorillasland.com/nukta.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2013-04-25",
+    "birthMonthDay": "04-25"
   },
   {
     "url": "https://www.gorillasland.com/nuru.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2012-12-22",
+    "birthMonthDay": "12-22"
   },
   {
     "url": "https://www.gorillasland.com/nwashi.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2009-08-25",
+    "birthMonthDay": "08-25"
   },
   {
     "url": "https://www.gorillasland.com/nyah.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2013-09-04",
+    "birthMonthDay": "09-04"
   },
   {
     "url": "https://www.gorillasland.com/nyango.php",
@@ -6947,32 +6947,32 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/nyaounda.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2001-02-05",
+    "birthMonthDay": "02-05"
   },
   {
     "url": "https://www.gorillasland.com/nyokumi.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2001-02-27",
+    "birthMonthDay": "02-27"
   },
   {
     "url": "https://www.gorillasland.com/nyuki.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1989-12-28",
+    "birthMonthDay": "12-28"
   },
   {
     "url": "https://www.gorillasland.com/nzinga.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1998-05-22",
+    "birthMonthDay": "05-22"
   },
   {
     "url": "https://www.gorillasland.com/nzuri.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2018-08-30",
+    "birthMonthDay": "08-30"
   },
   {
     "url": "https://www.gorillasland.com/oj.php",
@@ -6983,80 +6983,80 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/okabe.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2023-05-24",
+    "birthMonthDay": "05-24"
   },
   {
     "url": "https://www.gorillasland.com/okanda.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2011-04-17",
+    "birthMonthDay": "04-17"
   },
   {
     "url": "https://www.gorillasland.com/okpara.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1993-07-11",
+    "birthMonthDay": "07-11"
   },
   {
     "url": "https://www.gorillasland.com/oliver-tbg.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2016-08-18",
+    "birthMonthDay": "08-18"
   },
   {
     "url": "https://www.gorillasland.com/oliver.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1988-10-07",
+    "birthMonthDay": "10-07"
   },
   {
     "url": "https://www.gorillasland.com/olivia.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2016-08-28",
+    "birthMonthDay": "08-28"
   },
   {
     "url": "https://www.gorillasland.com/olympia.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1996-06-22",
+    "birthMonthDay": "06-22"
   },
   {
     "url": "https://www.gorillasland.com/orungo.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2015-12-11",
+    "birthMonthDay": "12-11"
   },
   {
     "url": "https://www.gorillasland.com/otana.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2001-01-28",
+    "birthMonthDay": "01-28"
   },
   {
     "url": "https://www.gorillasland.com/oumbie.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1992-06-30",
+    "birthMonthDay": "06-30"
   },
   {
     "url": "https://www.gorillasland.com/oundi.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2006-02-28",
+    "birthMonthDay": "02-28"
   },
   {
     "url": "https://www.gorillasland.com/oya.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1988-06-09",
+    "birthMonthDay": "06-09"
   },
   {
     "url": "https://www.gorillasland.com/ozala.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1994-03-19",
+    "birthMonthDay": "03-19"
   },
   {
     "url": "https://www.gorillasland.com/ozoum.php",
@@ -7067,8 +7067,8 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/paki.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1989-05-26",
+    "birthMonthDay": "05-26"
   },
   {
     "url": "https://www.gorillasland.com/pamela.php",
@@ -7079,20 +7079,20 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/patrick-r.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1990-04-13",
+    "birthMonthDay": "04-13"
   },
   {
     "url": "https://www.gorillasland.com/patty-a.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2015-05-09",
+    "birthMonthDay": "05-09"
   },
   {
     "url": "https://www.gorillasland.com/patty.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2012-10-11",
+    "birthMonthDay": "10-11"
   },
   {
     "url": "https://www.gorillasland.com/pau-pau.php",
@@ -7103,50 +7103,50 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/paul-donn.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1989-01-03",
+    "birthMonthDay": "01-03"
   },
   {
     "url": "https://www.gorillasland.com/pele.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2002-02-12",
+    "birthMonthDay": "02-12"
   },
   {
     "url": "https://www.gorillasland.com/pendeka.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1998-01-14",
+    "birthMonthDay": "01-14"
   },
   {
     "url": "https://www.gorillasland.com/penney.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1986-11-08",
+    "birthMonthDay": "11-08"
   },
   {
     "url": "https://www.gorillasland.com/penny-m.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1989-05-03",
+    "birthMonthDay": "05-03"
   },
   {
     "url": "https://www.gorillasland.com/pepe.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2015-05-06",
+    "birthMonthDay": "05-06"
   },
   {
     "url": "https://www.gorillasland.com/pertinax.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1982-04-13",
+    "birthMonthDay": "04-13"
   },
   {
     "url": "https://www.gorillasland.com/pesco.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1986-05-19",
+    "birthMonthDay": "05-19"
   },
   {
     "url": "https://www.gorillasland.com/pieko.php",
@@ -7157,8 +7157,8 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/pierre-pont.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2001-01-06",
+    "birthMonthDay": "01-06"
   },
   {
     "url": "https://www.gorillasland.com/pinga.php",
@@ -7169,8 +7169,8 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/polepole.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1989-12-28",
+    "birthMonthDay": "12-28"
   },
   {
     "url": "https://www.gorillasland.com/polo.php",
@@ -7187,74 +7187,74 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/popa.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2004-11-29",
+    "birthMonthDay": "11-29"
   },
   {
     "url": "https://www.gorillasland.com/pra-07-01.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2007-04-11",
+    "birthMonthDay": "04-11"
   },
   {
     "url": "https://www.gorillasland.com/pra-13-01.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2013-02-24",
+    "birthMonthDay": "02-24"
   },
   {
     "url": "https://www.gorillasland.com/praline.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1996-01-15",
+    "birthMonthDay": "01-15"
   },
   {
     "url": "https://www.gorillasland.com/qaziba.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2019-09-01",
+    "birthMonthDay": "09-01"
   },
   {
     "url": "https://www.gorillasland.com/quarta.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1968-07-17",
+    "birthMonthDay": "07-17"
   },
   {
     "url": "https://www.gorillasland.com/quembo.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2010-12-20",
+    "birthMonthDay": "12-20"
   },
   {
     "url": "https://www.gorillasland.com/quenta.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1990-07-09",
+    "birthMonthDay": "07-09"
   },
   {
     "url": "https://www.gorillasland.com/quito.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1981-06-01",
+    "birthMonthDay": "06-01"
   },
   {
     "url": "https://www.gorillasland.com/radi.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1983-03-26",
+    "birthMonthDay": "03-26"
   },
   {
     "url": "https://www.gorillasland.com/rafiki-a.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1984-03-04",
+    "birthMonthDay": "03-04"
   },
   {
     "url": "https://www.gorillasland.com/rafiki.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1991-05-29",
+    "birthMonthDay": "05-29"
   },
   {
     "url": "https://www.gorillasland.com/ram-11-01.php",
@@ -7271,32 +7271,32 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/ramses-i.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1971-04-12",
+    "birthMonthDay": "04-12"
   },
   {
     "url": "https://www.gorillasland.com/rapunzel.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1984-02-20",
+    "birthMonthDay": "02-20"
   },
   {
     "url": "https://www.gorillasland.com/rebeca.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1975-01-02",
+    "birthMonthDay": "01-02"
   },
   {
     "url": "https://www.gorillasland.com/rebecca.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1982-09-01",
+    "birthMonthDay": "09-01"
   },
   {
     "url": "https://www.gorillasland.com/richard.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1991-11-09",
+    "birthMonthDay": "11-09"
   },
   {
     "url": "https://www.gorillasland.com/rigo.php",
@@ -7307,14 +7307,14 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/riki.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2017-10-09",
+    "birthMonthDay": "10-09"
   },
   {
     "url": "https://www.gorillasland.com/ringo.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2021-05-28",
+    "birthMonthDay": "05-28"
   },
   {
     "url": "https://www.gorillasland.com/rivi.php",
@@ -7325,20 +7325,20 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/rollie.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1996-10-03",
+    "birthMonthDay": "10-03"
   },
   {
     "url": "https://www.gorillasland.com/romina.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1980-04-18",
+    "birthMonthDay": "04-18"
   },
   {
     "url": "https://www.gorillasland.com/roselinda.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1975-05-13",
+    "birthMonthDay": "05-13"
   },
   {
     "url": "https://www.gorillasland.com/roututu.php",
@@ -7349,62 +7349,62 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/roxie.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1976-08-31",
+    "birthMonthDay": "08-31"
   },
   {
     "url": "https://www.gorillasland.com/rumpelstills.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1984-08-19",
+    "birthMonthDay": "08-19"
   },
   {
     "url": "https://www.gorillasland.com/ruya.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1991-08-08",
+    "birthMonthDay": "08-08"
   },
   {
     "url": "https://www.gorillasland.com/rwanda.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1986-08-16",
+    "birthMonthDay": "08-16"
   },
   {
     "url": "https://www.gorillasland.com/sadiki-tor.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2005-03-07",
+    "birthMonthDay": "03-07"
   },
   {
     "url": "https://www.gorillasland.com/sadiki.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2006-10-10",
+    "birthMonthDay": "10-10"
   },
   {
     "url": "https://www.gorillasland.com/safiri.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1996-06-06",
+    "birthMonthDay": "06-06"
   },
   {
     "url": "https://www.gorillasland.com/sakina.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1986-07-14",
+    "birthMonthDay": "07-14"
   },
   {
     "url": "https://www.gorillasland.com/sally.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2020-08-20",
+    "birthMonthDay": "08-20"
   },
   {
     "url": "https://www.gorillasland.com/salome.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1976-07-16",
+    "birthMonthDay": "07-16"
   },
   {
     "url": "https://www.gorillasland.com/sam-sam.php",
@@ -7415,26 +7415,26 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/samantha-a.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1970-01-31",
+    "birthMonthDay": "01-31"
   },
   {
     "url": "https://www.gorillasland.com/samantha.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2006-10-14",
+    "birthMonthDay": "10-14"
   },
   {
     "url": "https://www.gorillasland.com/sammi.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2005-07-28",
+    "birthMonthDay": "07-28"
   },
   {
     "url": "https://www.gorillasland.com/samson-b.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1995-05-01",
+    "birthMonthDay": "05-01"
   },
   {
     "url": "https://www.gorillasland.com/samson.php",
@@ -7451,56 +7451,56 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/sangha.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2000-03-25",
+    "birthMonthDay": "03-25"
   },
   {
     "url": "https://www.gorillasland.com/sango.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2004-08-12",
+    "birthMonthDay": "08-12"
   },
   {
     "url": "https://www.gorillasland.com/sanki.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1998-07-04",
+    "birthMonthDay": "07-04"
   },
   {
     "url": "https://www.gorillasland.com/santu.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2021-07-14",
+    "birthMonthDay": "07-14"
   },
   {
     "url": "https://www.gorillasland.com/sawa-a.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2011-11-24",
+    "birthMonthDay": "11-24"
   },
   {
     "url": "https://www.gorillasland.com/sawa.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2012-07-10",
+    "birthMonthDay": "07-10"
   },
   {
     "url": "https://www.gorillasland.com/sawidi.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2014-08-05",
+    "birthMonthDay": "08-05"
   },
   {
     "url": "https://www.gorillasland.com/schorch.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1972-03-03",
+    "birthMonthDay": "03-03"
   },
   {
     "url": "https://www.gorillasland.com/sekani.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1990-11-04",
+    "birthMonthDay": "11-04"
   },
   {
     "url": "https://www.gorillasland.com/serufuli.php",
@@ -7511,38 +7511,38 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/sha-sha.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2001-10-06",
+    "birthMonthDay": "10-06"
   },
   {
     "url": "https://www.gorillasland.com/shabani.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1996-10-20",
+    "birthMonthDay": "10-20"
   },
   {
     "url": "https://www.gorillasland.com/shae.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2016-01-21",
+    "birthMonthDay": "01-21"
   },
   {
     "url": "https://www.gorillasland.com/shaila.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2006-12-25",
+    "birthMonthDay": "12-25"
   },
   {
     "url": "https://www.gorillasland.com/shalia.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2002-02-09",
+    "birthMonthDay": "02-09"
   },
   {
     "url": "https://www.gorillasland.com/shallita.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2014-05-21",
+    "birthMonthDay": "05-21"
   },
   {
     "url": "https://www.gorillasland.com/shamavu.php",
@@ -7565,80 +7565,80 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/shambe.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2011-09-04",
+    "birthMonthDay": "09-04"
   },
   {
     "url": "https://www.gorillasland.com/shana.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2002-09-01",
+    "birthMonthDay": "09-01"
   },
   {
     "url": "https://www.gorillasland.com/shanga.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2001-03-29",
+    "birthMonthDay": "03-29"
   },
   {
     "url": "https://www.gorillasland.com/shango.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1989-03-11",
+    "birthMonthDay": "03-11"
   },
   {
     "url": "https://www.gorillasland.com/shani.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1990-02-10",
+    "birthMonthDay": "02-10"
   },
   {
     "url": "https://www.gorillasland.com/shanta.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1997-02-26",
+    "birthMonthDay": "02-26"
   },
   {
     "url": "https://www.gorillasland.com/shatilla.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1997-04-17",
+    "birthMonthDay": "04-17"
   },
   {
     "url": "https://www.gorillasland.com/sheila.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1991-02-18",
+    "birthMonthDay": "02-18"
   },
   {
     "url": "https://www.gorillasland.com/shinda-a.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1991-06-14",
+    "birthMonthDay": "06-14"
   },
   {
     "url": "https://www.gorillasland.com/shinda.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2001-10-09",
+    "birthMonthDay": "10-09"
   },
   {
     "url": "https://www.gorillasland.com/shindy.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1985-06-03",
+    "birthMonthDay": "06-03"
   },
   {
     "url": "https://www.gorillasland.com/shira.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2004-08-28",
+    "birthMonthDay": "08-28"
   },
   {
     "url": "https://www.gorillasland.com/shomari.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2007-07-12",
+    "birthMonthDay": "07-12"
   },
   {
     "url": "https://www.gorillasland.com/shou.php",
@@ -7649,20 +7649,20 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/shufai-a.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2016-09-24",
+    "birthMonthDay": "09-24"
   },
   {
     "url": "https://www.gorillasland.com/shumba.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1980-08-01",
+    "birthMonthDay": "08-01"
   },
   {
     "url": "https://www.gorillasland.com/sia.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2006-03-21",
+    "birthMonthDay": "03-21"
   },
   {
     "url": "https://www.gorillasland.com/sidonie.php",
@@ -7673,8 +7673,8 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/simsim.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1986-01-25",
+    "birthMonthDay": "01-25"
   },
   {
     "url": "https://www.gorillasland.com/sonja-h.php",
@@ -7685,8 +7685,8 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/sonja.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1989-12-08",
+    "birthMonthDay": "12-08"
   },
   {
     "url": "https://www.gorillasland.com/sounda.php",
@@ -7697,62 +7697,62 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/soundi.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2016-04-25",
+    "birthMonthDay": "04-25"
   },
   {
     "url": "https://www.gorillasland.com/stadi.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1991-05-14",
+    "birthMonthDay": "05-14"
   },
   {
     "url": "https://www.gorillasland.com/subira.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1995-12-01",
+    "birthMonthDay": "12-01"
   },
   {
     "url": "https://www.gorillasland.com/sukari.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1998-05-12",
+    "birthMonthDay": "05-12"
   },
   {
     "url": "https://www.gorillasland.com/suki.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2000-07-10",
+    "birthMonthDay": "07-10"
   },
   {
     "url": "https://www.gorillasland.com/sulaiman.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2014-11-24",
+    "birthMonthDay": "11-24"
   },
   {
     "url": "https://www.gorillasland.com/sumomo.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2022-05-31",
+    "birthMonthDay": "05-31"
   },
   {
     "url": "https://www.gorillasland.com/susie.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2004-09-27",
+    "birthMonthDay": "09-27"
   },
   {
     "url": "https://www.gorillasland.com/suwedi.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2011-02-09",
+    "birthMonthDay": "02-09"
   },
   {
     "url": "https://www.gorillasland.com/sydney.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1997-04-06",
+    "birthMonthDay": "04-06"
   },
   {
     "url": "https://www.gorillasland.com/taali.php",
@@ -7763,14 +7763,14 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/tabibu.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1992-04-30",
+    "birthMonthDay": "04-30"
   },
   {
     "url": "https://www.gorillasland.com/tabitha.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1980-11-06",
+    "birthMonthDay": "11-06"
   },
   {
     "url": "https://www.gorillasland.com/tadao.php",
@@ -7781,110 +7781,110 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/tam-tam.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1983-12-01",
+    "birthMonthDay": "12-01"
   },
   {
     "url": "https://www.gorillasland.com/tamani.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1993-03-13",
+    "birthMonthDay": "03-13"
   },
   {
     "url": "https://www.gorillasland.com/tamarilla.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1986-07-29",
+    "birthMonthDay": "07-29"
   },
   {
     "url": "https://www.gorillasland.com/tamba.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1986-09-14",
+    "birthMonthDay": "09-14"
   },
   {
     "url": "https://www.gorillasland.com/tambabi.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1986-03-11",
+    "birthMonthDay": "03-11"
   },
   {
     "url": "https://www.gorillasland.com/tambo-a.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1994-08-08",
+    "birthMonthDay": "08-08"
   },
   {
     "url": "https://www.gorillasland.com/tambo.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2013-06-02",
+    "birthMonthDay": "06-02"
   },
   {
     "url": "https://www.gorillasland.com/tamidol.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1998-12-21",
+    "birthMonthDay": "12-21"
   },
   {
     "url": "https://www.gorillasland.com/tamki.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1989-10-08",
+    "birthMonthDay": "10-08"
   },
   {
     "url": "https://www.gorillasland.com/tamu.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2011-07-25",
+    "birthMonthDay": "07-25"
   },
   {
     "url": "https://www.gorillasland.com/tandu.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2013-10-12",
+    "birthMonthDay": "10-12"
   },
   {
     "url": "https://www.gorillasland.com/tano-gp.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2011-08-27",
+    "birthMonthDay": "08-27"
   },
   {
     "url": "https://www.gorillasland.com/tano.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2011-11-08",
+    "birthMonthDay": "11-08"
   },
   {
     "url": "https://www.gorillasland.com/tara.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2017-04-22",
+    "birthMonthDay": "04-22"
   },
   {
     "url": "https://www.gorillasland.com/tatu-a.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1998-11-03",
+    "birthMonthDay": "11-03"
   },
   {
     "url": "https://www.gorillasland.com/tatu.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2007-05-30",
+    "birthMonthDay": "05-30"
   },
   {
     "url": "https://www.gorillasland.com/tayari.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2011-02-23",
+    "birthMonthDay": "02-23"
   },
   {
     "url": "https://www.gorillasland.com/taz.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1989-07-20",
+    "birthMonthDay": "07-20"
   },
   {
     "url": "https://www.gorillasland.com/tebe.php",
@@ -7895,56 +7895,56 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/tebogo.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2012-03-22",
+    "birthMonthDay": "03-22"
   },
   {
     "url": "https://www.gorillasland.com/thabo-a.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2015-04-18",
+    "birthMonthDay": "04-18"
   },
   {
     "url": "https://www.gorillasland.com/thabo.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2007-11-23",
+    "birthMonthDay": "11-23"
   },
   {
     "url": "https://www.gorillasland.com/thara.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2025-08-13",
+    "birthMonthDay": "08-13"
   },
   {
     "url": "https://www.gorillasland.com/thirza.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2007-01-11",
+    "birthMonthDay": "01-11"
   },
   {
     "url": "https://www.gorillasland.com/thomas.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2002-12-29",
+    "birthMonthDay": "12-29"
   },
   {
     "url": "https://www.gorillasland.com/thor.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2025-09-04",
+    "birthMonthDay": "09-04"
   },
   {
     "url": "https://www.gorillasland.com/tilla.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2021-02-15",
+    "birthMonthDay": "02-15"
   },
   {
     "url": "https://www.gorillasland.com/timbou.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1990-05-10",
+    "birthMonthDay": "05-10"
   },
   {
     "url": "https://www.gorillasland.com/timmy.php",
@@ -7955,14 +7955,14 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/timu.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1995-10-09",
+    "birthMonthDay": "10-09"
   },
   {
     "url": "https://www.gorillasland.com/tinga-aka-glenda.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2005-05-24",
+    "birthMonthDay": "05-24"
   },
   {
     "url": "https://www.gorillasland.com/tino.php",
@@ -7973,44 +7973,44 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/tiny.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2010-10-26",
+    "birthMonthDay": "10-26"
   },
   {
     "url": "https://www.gorillasland.com/tok-16-01.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2016-10-12",
+    "birthMonthDay": "10-12"
   },
   {
     "url": "https://www.gorillasland.com/tommy.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1988-09-02",
+    "birthMonthDay": "09-02"
   },
   {
     "url": "https://www.gorillasland.com/tonda.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2014-12-26",
+    "birthMonthDay": "12-26"
   },
   {
     "url": "https://www.gorillasland.com/toni-a.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1971-12-28",
+    "birthMonthDay": "12-28"
   },
   {
     "url": "https://www.gorillasland.com/toni.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1974-08-08",
+    "birthMonthDay": "08-08"
   },
   {
     "url": "https://www.gorillasland.com/tonka.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2012-11-06",
+    "birthMonthDay": "11-06"
   },
   {
     "url": "https://www.gorillasland.com/toto-j.php",
@@ -8021,20 +8021,20 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/touni.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2007-12-12",
+    "birthMonthDay": "12-12"
   },
   {
     "url": "https://www.gorillasland.com/tracy-james.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2012-01-15",
+    "birthMonthDay": "01-15"
   },
   {
     "url": "https://www.gorillasland.com/triska.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1986-06-21",
+    "birthMonthDay": "06-21"
   },
   {
     "url": "https://www.gorillasland.com/trudy.php",
@@ -8051,26 +8051,26 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/tuana.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2005-02-26",
+    "birthMonthDay": "02-26"
   },
   {
     "url": "https://www.gorillasland.com/tuena.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2009-04-10",
+    "birthMonthDay": "04-10"
   },
   {
     "url": "https://www.gorillasland.com/tufani2.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1991-10-13",
+    "birthMonthDay": "10-13"
   },
   {
     "url": "https://www.gorillasland.com/tulivu.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2004-05-02",
+    "birthMonthDay": "05-02"
   },
   {
     "url": "https://www.gorillasland.com/tumaini.php",
@@ -8093,20 +8093,20 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/tunko.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1984-10-04",
+    "birthMonthDay": "10-04"
   },
   {
     "url": "https://www.gorillasland.com/tuti.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1994-07-11",
+    "birthMonthDay": "07-11"
   },
   {
     "url": "https://www.gorillasland.com/ubongo.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2008-01-06",
+    "birthMonthDay": "01-06"
   },
   {
     "url": "https://www.gorillasland.com/ubuntu.php",
@@ -8117,26 +8117,26 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/ujiji.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1994-02-12",
+    "birthMonthDay": "02-12"
   },
   {
     "url": "https://www.gorillasland.com/ukiwa.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1983-04-09",
+    "birthMonthDay": "04-09"
   },
   {
     "url": "https://www.gorillasland.com/ulca.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1981-03-23",
+    "birthMonthDay": "03-23"
   },
   {
     "url": "https://www.gorillasland.com/umande.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2006-02-18",
+    "birthMonthDay": "02-18"
   },
   {
     "url": "https://www.gorillasland.com/undi.php",
@@ -8147,8 +8147,8 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/upala.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2008-05-27",
+    "birthMonthDay": "05-27"
   },
   {
     "url": "https://www.gorillasland.com/urko.php",
@@ -8159,56 +8159,56 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/utonde.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1979-01-21",
+    "birthMonthDay": "01-21"
   },
   {
     "url": "https://www.gorillasland.com/uzuri-bb.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1994-07-19",
+    "birthMonthDay": "07-19"
   },
   {
     "url": "https://www.gorillasland.com/uzuri.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2008-10-15",
+    "birthMonthDay": "10-15"
   },
   {
     "url": "https://www.gorillasland.com/val-12-01.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2012-04-03",
+    "birthMonthDay": "04-03"
   },
   {
     "url": "https://www.gorillasland.com/vana.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2012-03-16",
+    "birthMonthDay": "03-16"
   },
   {
     "url": "https://www.gorillasland.com/venus-l.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2024-02-08",
+    "birthMonthDay": "02-08"
   },
   {
     "url": "https://www.gorillasland.com/viatu.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1998-12-20",
+    "birthMonthDay": "12-20"
   },
   {
     "url": "https://www.gorillasland.com/victoria.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1968-06-09",
+    "birthMonthDay": "06-09"
   },
   {
     "url": "https://www.gorillasland.com/viking.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2009-04-02",
+    "birthMonthDay": "04-02"
   },
   {
     "url": "https://www.gorillasland.com/vila.php",
@@ -8219,32 +8219,32 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/vimoto.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1995-03-11",
+    "birthMonthDay": "03-11"
   },
   {
     "url": "https://www.gorillasland.com/viringika.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1995-03-23",
+    "birthMonthDay": "03-23"
   },
   {
     "url": "https://www.gorillasland.com/virunga-a.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1979-05-23",
+    "birthMonthDay": "05-23"
   },
   {
     "url": "https://www.gorillasland.com/virunga-b.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2015-05-03",
+    "birthMonthDay": "05-03"
   },
   {
     "url": "https://www.gorillasland.com/virunga-valencia.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2016-08-17",
+    "birthMonthDay": "08-17"
   },
   {
     "url": "https://www.gorillasland.com/virunga.php",
@@ -8255,86 +8255,86 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/vizazi.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2020-06-24",
+    "birthMonthDay": "06-24"
   },
   {
     "url": "https://www.gorillasland.com/vizuri-m.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1998-02-17",
+    "birthMonthDay": "02-17"
   },
   {
     "url": "https://www.gorillasland.com/vizuri.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1995-05-18",
+    "birthMonthDay": "05-18"
   },
   {
     "url": "https://www.gorillasland.com/vuko.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2020-01-08",
+    "birthMonthDay": "01-08"
   },
   {
     "url": "https://www.gorillasland.com/vutu.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2015-09-15",
+    "birthMonthDay": "09-15"
   },
   {
     "url": "https://www.gorillasland.com/wazungu.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2002-08-12",
+    "birthMonthDay": "08-12"
   },
   {
     "url": "https://www.gorillasland.com/wefa.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2011-06-06",
+    "birthMonthDay": "06-06"
   },
   {
     "url": "https://www.gorillasland.com/wela.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2016-09-15",
+    "birthMonthDay": "09-15"
   },
   {
     "url": "https://www.gorillasland.com/whimsie-adepa.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2016-02-25",
+    "birthMonthDay": "02-25"
   },
   {
     "url": "https://www.gorillasland.com/willie-b-iii.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2023-04-24",
+    "birthMonthDay": "04-24"
   },
   {
     "url": "https://www.gorillasland.com/willy.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1976-07-21",
+    "birthMonthDay": "07-21"
   },
   {
     "url": "https://www.gorillasland.com/wima.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1999-01-09",
+    "birthMonthDay": "01-09"
   },
   {
     "url": "https://www.gorillasland.com/wimbe.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2008-04-12",
+    "birthMonthDay": "04-12"
   },
   {
     "url": "https://www.gorillasland.com/winifred.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1990-10-17",
+    "birthMonthDay": "10-17"
   },
   {
     "url": "https://www.gorillasland.com/winston.php",
@@ -8345,74 +8345,74 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/xebo.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1985-10-06",
+    "birthMonthDay": "10-06"
   },
   {
     "url": "https://www.gorillasland.com/xetsa.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2017-03-01",
+    "birthMonthDay": "03-01"
   },
   {
     "url": "https://www.gorillasland.com/ya-kwanza.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1984-06-03",
+    "birthMonthDay": "06-03"
   },
   {
     "url": "https://www.gorillasland.com/yadumu.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1999-11-28",
+    "birthMonthDay": "11-28"
   },
   {
     "url": "https://www.gorillasland.com/yamba.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2015-12-29",
+    "birthMonthDay": "12-29"
   },
   {
     "url": "https://www.gorillasland.com/yamila.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2016-06-03",
+    "birthMonthDay": "06-03"
   },
   {
     "url": "https://www.gorillasland.com/yanga.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2016-10-29",
+    "birthMonthDay": "10-29"
   },
   {
     "url": "https://www.gorillasland.com/yangu-a.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1983-05-24",
+    "birthMonthDay": "05-24"
   },
   {
     "url": "https://www.gorillasland.com/yangu.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1998-07-02",
+    "birthMonthDay": "07-02"
   },
   {
     "url": "https://www.gorillasland.com/yaounde.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1983-11-21",
+    "birthMonthDay": "11-21"
   },
   {
     "url": "https://www.gorillasland.com/yaoundeminnie.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2019-06-19",
+    "birthMonthDay": "06-19"
   },
   {
     "url": "https://www.gorillasland.com/ybana.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1998-07-20",
+    "birthMonthDay": "07-20"
   },
   {
     "url": "https://www.gorillasland.com/yeba.php",
@@ -8423,8 +8423,8 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/yeboah.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1997-01-10",
+    "birthMonthDay": "01-10"
   },
   {
     "url": "https://www.gorillasland.com/yehudit.php",
@@ -8435,8 +8435,8 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/yene.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2001-01-14",
+    "birthMonthDay": "01-14"
   },
   {
     "url": "https://www.gorillasland.com/yeti.php",
@@ -8447,26 +8447,26 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/yewande.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2008-05-15",
+    "birthMonthDay": "05-15"
   },
   {
     "url": "https://www.gorillasland.com/yoko.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2015-09-02",
+    "birthMonthDay": "09-02"
   },
   {
     "url": "https://www.gorillasland.com/yola.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1992-06-29",
+    "birthMonthDay": "06-29"
   },
   {
     "url": "https://www.gorillasland.com/yuba.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2011-07-09",
+    "birthMonthDay": "07-09"
   },
   {
     "url": "https://www.gorillasland.com/yuma.php",
@@ -8483,44 +8483,44 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/zachary.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2015-09-23",
+    "birthMonthDay": "09-23"
   },
   {
     "url": "https://www.gorillasland.com/zahra.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2017-09-09",
+    "birthMonthDay": "09-09"
   },
   {
     "url": "https://www.gorillasland.com/zaire.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1974-10-23",
+    "birthMonthDay": "10-23"
   },
   {
     "url": "https://www.gorillasland.com/zakota.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2018-06-04",
+    "birthMonthDay": "06-04"
   },
   {
     "url": "https://www.gorillasland.com/zam-88-01.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1988-04-23",
+    "birthMonthDay": "04-23"
   },
   {
     "url": "https://www.gorillasland.com/zawadi.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1991-08-05",
+    "birthMonthDay": "08-05"
   },
   {
     "url": "https://www.gorillasland.com/zazie.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1983-01-04",
+    "birthMonthDay": "01-04"
   },
   {
     "url": "https://www.gorillasland.com/zeytin.php",
@@ -8531,56 +8531,56 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/zoezi.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2000-12-14",
+    "birthMonthDay": "12-14"
   },
   {
     "url": "https://www.gorillasland.com/zola-a.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2002-11-01",
+    "birthMonthDay": "11-01"
   },
   {
     "url": "https://www.gorillasland.com/zola-b.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2014-06-02",
+    "birthMonthDay": "06-02"
   },
   {
     "url": "https://www.gorillasland.com/zola.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2008-04-15",
+    "birthMonthDay": "04-15"
   },
   {
     "url": "https://www.gorillasland.com/zsazsa.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1986-12-04",
+    "birthMonthDay": "12-04"
   },
   {
     "url": "https://www.gorillasland.com/zungu.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2002-08-04",
+    "birthMonthDay": "08-04"
   },
   {
     "url": "https://www.gorillasland.com/zura.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1981-09-13",
+    "birthMonthDay": "09-13"
   },
   {
     "url": "https://www.gorillasland.com/zuri-cal.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1996-12-31",
+    "birthMonthDay": "12-31"
   },
   {
     "url": "https://www.gorillasland.com/zuri-houston.php",
     "isAlive": false,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "1983-10-09",
+    "birthMonthDay": "10-09"
   },
   {
     "url": "https://www.gorillasland.com/zuza.php",
@@ -8591,9 +8591,9 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/zwalani.php",
     "isAlive": true,
-    "birthDate": null,
-    "birthMonthDay": null
+    "birthDate": "2000-01-14",
+    "birthMonthDay": "01-14"
   }
 ];
 
-window.GORILLA_PAGES_UPDATED = "2026-08-21";
+window.GORILLA_PAGES_UPDATED = "2026-08-22";

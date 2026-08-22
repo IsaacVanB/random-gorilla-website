@@ -159,20 +159,29 @@ def extract_field_values(html: str, fields: list[str]) -> dict[str, str]:
                 if value.startswith(":"):
                     value = value[1:].strip()
 
-                if not value and i + 1 < len(lines):
-                    value = lines[i + 1].strip()
+                # Profile values can be split across several HTML elements. For
+                # example, "July 10th 2000" is exposed by BeautifulSoup as four
+                # separate lines. Collect fragments up to the next field label.
+                fragments = [value] if value else []
 
-                values[field] = value
+                for following_line in lines[i + 1:]:
+                    if following_line.endswith(":"):
+                        break
+
+                    fragments.append(following_line)
+
+                values[field] = " ".join(fragments)
 
     return values
 
 
 def parse_birth_date(value: str) -> date | None:
     cleaned = re.sub(r"\s+", " ", value.strip())
-    cleaned = re.sub(r"(\d)(st|nd|rd|th)\b", r"\1", cleaned, flags=re.IGNORECASE)
+    cleaned = re.sub(r"\b(\d{1,2})\s*(st|nd|rd|th)\b", r"\1", cleaned, flags=re.IGNORECASE)
 
     date_patterns = [
         r"\d{4}-\d{1,2}-\d{1,2}",
+        r"\d{1,2}\.[A-Za-z]+\.\d{4}",
         r"\d{1,2}[./-]\d{1,2}[./-]\d{2,4}",
         r"[A-Za-z]+ \d{1,2},? \d{4}",
         r"\d{1,2} [A-Za-z]+ \d{4}",
@@ -185,6 +194,8 @@ def parse_birth_date(value: str) -> date | None:
         "%d-%m-%Y",
         "%m/%d/%Y",
         "%m-%d-%Y",
+        "%d.%B.%Y",
+        "%d.%b.%Y",
         "%B %d, %Y",
         "%B %d %Y",
         "%b %d, %Y",

@@ -210,20 +210,20 @@
     <button onclick="openRandomGorilla(false)">Open in this tab</button>
     <button onclick="openRandomGorilla(true)">Open in new tab</button>
 
+    <p>
+      <a class="database-link" href="https://www.gorillasland.com/gorilla-database.php" target="_blank" rel="noopener noreferrer">Open gorilla database</a>
+    </p>
+
     <section class="birthday-search" aria-labelledby="birthdayHeading">
       <h2 id="birthdayHeading">Birthday matches</h2>
       <div class="birthday-controls">
-        <label for="birthday">Your birthday</label>
-        <input id="birthday" type="date">
+        <label for="birthday">Birthday</label>
+        <input id="birthday" type="text" inputmode="numeric" placeholder="MM/DD or MM/DD/YYYY">
         <button type="button" onclick="showBirthdayMatches()">Find matches</button>
       </div>
       <p id="birthdayStatus"></p>
       <ul id="birthdayResults" class="birthday-results"></ul>
     </section>
-
-    <p>
-      <a class="database-link" href="https://www.gorillasland.com/gorilla-database.php" target="_blank" rel="noopener noreferrer">Open gorilla database</a>
-    </p>
 
   </main>
 
@@ -311,18 +311,91 @@
     }
 
     function updateBirthdayMatches() {
-      if (document.getElementById("birthday").value) {
+      if (document.getElementById("birthday").value.trim()) {
         showBirthdayMatches();
       } else {
         clearBirthdayMatches();
       }
     }
 
+    function isValidMonthDay(month, day) {
+      const daysByMonth = [31, 29, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31];
+
+      return Number.isInteger(month) &&
+        Number.isInteger(day) &&
+        month >= 1 &&
+        month <= 12 &&
+        day >= 1 &&
+        day <= daysByMonth[month - 1];
+    }
+
+    function isValidFullDate(year, month, day) {
+      const date = new Date(year, month - 1, day);
+
+      return date.getFullYear() === year &&
+        date.getMonth() === month - 1 &&
+        date.getDate() === day;
+    }
+
+    function padDatePart(value) {
+      return String(value).padStart(2, "0");
+    }
+
+    function parseBirthdaySearch(value) {
+      const cleaned = value.trim();
+      let match = cleaned.match(/^(\d{4})-(\d{1,2})-(\d{1,2})$/);
+
+      if (match) {
+        const year = Number(match[1]);
+        const month = Number(match[2]);
+        const day = Number(match[3]);
+
+        if (isValidFullDate(year, month, day)) {
+          return {
+            birthDate: `${year}-${padDatePart(month)}-${padDatePart(day)}`,
+            birthMonthDay: `${padDatePart(month)}-${padDatePart(day)}`
+          };
+        }
+
+        return null;
+      }
+
+      match = cleaned.match(/^(\d{1,2})[/-](\d{1,2})(?:[/-](\d{4}))?$/);
+
+      if (!match) {
+        return null;
+      }
+
+      const month = Number(match[1]);
+      const day = Number(match[2]);
+      const year = match[3] ? Number(match[3]) : null;
+
+      if (year !== null) {
+        if (!isValidFullDate(year, month, day)) {
+          return null;
+        }
+
+        return {
+          birthDate: `${year}-${padDatePart(month)}-${padDatePart(day)}`,
+          birthMonthDay: `${padDatePart(month)}-${padDatePart(day)}`
+        };
+      }
+
+      if (!isValidMonthDay(month, day)) {
+        return null;
+      }
+
+      return {
+        birthDate: null,
+        birthMonthDay: `${padDatePart(month)}-${padDatePart(day)}`
+      };
+    }
+
     function showBirthdayMatches() {
       const birthdayInput = document.getElementById("birthday");
       const birthdayStatus = document.getElementById("birthdayStatus");
       const birthdayResults = document.getElementById("birthdayResults");
-      const birthday = birthdayInput.value;
+      const birthday = birthdayInput.value.trim();
 
       birthdayResults.replaceChildren();
 
@@ -336,8 +409,20 @@
         return;
       }
 
-      const monthDay = birthday.slice(5);
-      const matches = getPageRecords().filter(record => record.birthMonthDay === monthDay);
+      const parsedBirthday = parseBirthdaySearch(birthday);
+
+      if (!parsedBirthday) {
+        birthdayStatus.textContent = "Enter a birthday as MM/DD, MM-DD, YYYY-MM-DD, or MM/DD/YYYY.";
+        return;
+      }
+
+      const matches = getPageRecords().filter(record => {
+        if (parsedBirthday.birthDate) {
+          return record.birthDate === parsedBirthday.birthDate;
+        }
+
+        return record.birthMonthDay === parsedBirthday.birthMonthDay;
+      });
 
       if (matches.length === 0) {
         birthdayStatus.textContent = "No gorilla profiles matched that birthday.";
