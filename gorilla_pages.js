@@ -6424,7 +6424,7 @@ window.GORILLA_PAGE_DATA = [
   },
   {
     "url": "https://www.gorillasland.com/mpenzi.php",
-    "isAlive": true,
+    "isAlive": false,
     "birthDate": "1985-07-09",
     "birthMonthDay": "07-09"
   },
@@ -7913,8 +7913,8 @@ window.GORILLA_PAGE_DATA = [
   {
     "url": "https://www.gorillasland.com/thara.php",
     "isAlive": true,
-    "birthDate": "2025-08-13",
-    "birthMonthDay": "08-13"
+    "birthDate": "2025-08-14",
+    "birthMonthDay": "08-14"
   },
   {
     "url": "https://www.gorillasland.com/thirza.php",
@@ -8596,4 +8596,4 @@ window.GORILLA_PAGE_DATA = [
   }
 ];
 
-window.GORILLA_PAGES_UPDATED = "2026-08-22";
+window.GORILLA_PAGES_UPDATED = "2026-10-16";
